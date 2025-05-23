@@ -1,0 +1,1001 @@
+id_compra,data_compra,valor_compra,produtos_adquiridos,canal_aquisicao,id_cliente
+1,2024-11-23,4702.39,Notebook,Site,1811
+2,2025-03-21,2582.07,"Teclado, Impressora, Mouse, Notebook, Smartphone",Loja Física,1535
+3,2024-01-13,4224.67,"Smartphone, Notebook, Impressora",App,1172
+4,2024-11-25,2532.01,Notebook,Loja Física,1941
+5,2025-03-12,3325.62,Teclado,Site,1153
+6,2024-10-24,2811.11,"Teclado, Smartphone, Fone de Ouvido, Webcam",App,1117
+7,2024-09-02,1707.89,"Monitor, Fone de Ouvido, Teclado, Impressora",Loja Física,1330
+8,2024-01-19,2093.31,"Impressora, Notebook, Smartphone, Mouse, Monitor",Televendas,1872
+9,2024-02-01,2054.91,Notebook,Loja Física,1824
+10,2024-02-07,3443.43,"Fone de Ouvido, Monitor, Mouse, Teclado",Site,1696
+11,2024-07-12,3664.63,"Notebook, Smartphone, Webcam, Mouse",Televendas,1617
+12,2024-03-29,3594.59,"Smartphone, Impressora, Monitor, Webcam",App,1614
+13,2024-01-24,2175.29,"Monitor, Smartphone, Mouse",Loja Física,1098
+14,2024-10-27,1189.44,"Webcam, Notebook, Mouse",Loja Física,1035
+15,2024-09-11,1258.81,"Teclado, Webcam, Fone de Ouvido, Smartphone",Televendas,1832
+16,2024-03-03,444.43,"Teclado, Fone de Ouvido, Webcam",Televendas,1280
+17,2025-05-20,1722.92,"Impressora, Smartphone, Teclado, Webcam, Notebook",Loja Física,1077
+18,2025-05-18,2499.84,"Impressora, Mouse",Site,1032
+19,2025-05-02,562.52,"Teclado, Monitor",Televendas,1152
+20,2024-11-14,1615.39,"Smartphone, Webcam, Teclado, Notebook",App,1001
+21,2024-01-06,426.76,"Impressora, Notebook",Televendas,1215
+22,2024-01-17,3564.38,"Teclado, Notebook, Fone de Ouvido, Webcam, Mouse",Site,1804
+23,2023-09-18,3372.86,"Fone de Ouvido, Monitor",Loja Física,1032
+24,2024-07-01,4199.76,"Monitor, Impressora, Teclado, Mouse, Webcam",App,1295
+25,2023-10-09,3720.8,"Mouse, Monitor, Smartphone, Notebook, Teclado",Site,1527
+26,2024-03-18,3155.25,"Teclado, Monitor, Smartphone, Notebook, Impressora",Televendas,1561
+27,2025-01-18,616.27,Smartphone,Loja Física,1908
+28,2023-06-23,4606.84,"Smartphone, Mouse, Teclado",App,1852
+29,2024-10-20,2004.43,"Mouse, Fone de Ouvido, Impressora, Teclado, Webcam",Televendas,1447
+30,2024-03-23,283.85,Webcam,Televendas,1861
+31,2024-10-13,1693.48,"Monitor, Teclado, Notebook",Televendas,1264
+32,2024-09-28,3019.48,"Webcam, Monitor",Loja Física,1967
+33,2024-03-06,973.98,Monitor,Loja Física,1805
+34,2024-04-12,4758.51,"Teclado, Monitor, Fone de Ouvido, Impressora, Webcam",Televendas,1410
+35,2024-10-28,2578.03,"Notebook, Teclado, Impressora, Monitor, Webcam",Loja Física,1509
+36,2023-09-17,3259.13,Fone de Ouvido,Loja Física,1711
+37,2024-01-15,2402.97,"Webcam, Monitor, Smartphone, Impressora, Fone de Ouvido",Televendas,1749
+38,2023-05-24,1227.29,"Fone de Ouvido, Smartphone, Notebook, Impressora, Webcam",Televendas,1100
+39,2025-02-07,1610.06,"Fone de Ouvido, Smartphone, Mouse",Site,1347
+40,2025-03-13,4881.45,Webcam,Site,1680
+41,2023-12-10,430.06,Mouse,App,1959
+42,2025-05-07,3975.79,"Mouse, Fone de Ouvido",Loja Física,1304
+43,2023-08-09,3061.7,"Teclado, Mouse",Site,1362
+44,2024-06-08,2641.65,"Notebook, Monitor",Televendas,1980
+45,2024-08-27,2141.1,"Mouse, Teclado, Smartphone, Webcam, Notebook",Loja Física,1959
+46,2023-06-16,4246.11,"Teclado, Impressora, Mouse, Notebook, Fone de Ouvido",Loja Física,1040
+47,2024-08-30,380.64,"Impressora, Monitor, Mouse",Loja Física,1820
+48,2024-06-26,1715.5,"Notebook, Monitor",Loja Física,1960
+49,2024-08-12,523.89,Monitor,Site,1246
+50,2024-09-08,706.8,Mouse,Televendas,1409
+51,2023-07-31,274.29,"Notebook, Fone de Ouvido, Monitor",Loja Física,1224
+52,2023-05-31,1849.15,"Webcam, Monitor",Site,1421
+53,2023-07-02,4545.41,Notebook,Loja Física,1072
+54,2024-10-17,2847.41,"Monitor, Impressora, Fone de Ouvido, Webcam",App,1639
+55,2024-01-18,4975.21,"Fone de Ouvido, Mouse, Smartphone, Notebook, Webcam",App,1617
+56,2025-02-01,1738.28,Monitor,Televendas,1495
+57,2025-05-20,2268.41,"Smartphone, Webcam, Mouse, Notebook",Loja Física,1893
+58,2023-07-08,4980.95,"Impressora, Webcam, Fone de Ouvido, Mouse",App,1444
+59,2024-08-12,20.17,"Impressora, Fone de Ouvido",Site,1541
+60,2024-03-02,1249.26,"Smartphone, Webcam",Loja Física,1439
+61,2024-12-27,1163.44,"Smartphone, Monitor, Fone de Ouvido",Loja Física,1398
+62,2024-02-05,4373.92,"Mouse, Teclado, Webcam, Smartphone",App,1409
+63,2025-01-06,3397.1,"Smartphone, Monitor, Teclado, Notebook",Site,1303
+64,2024-01-06,2999.39,"Impressora, Notebook, Webcam, Monitor",Loja Física,1590
+65,2024-03-11,2121.13,Notebook,Loja Física,1537
+66,2024-07-09,2258.7,"Smartphone, Webcam, Impressora, Mouse, Teclado",Site,1760
+67,2023-06-20,2540.79,"Teclado, Monitor",Site,1446
+68,2024-11-01,1308.72,"Fone de Ouvido, Teclado, Monitor",Site,1847
+69,2023-07-22,2153.84,"Fone de Ouvido, Mouse",Televendas,1801
+70,2025-05-17,2592.74,"Impressora, Webcam",App,1193
+71,2024-04-12,4799.54,"Webcam, Teclado, Notebook, Impressora",App,1816
+72,2023-08-22,296.5,"Teclado, Fone de Ouvido, Webcam, Mouse, Smartphone",App,1355
+73,2024-03-02,3392.18,Monitor,Loja Física,1603
+74,2024-05-13,3835.23,"Notebook, Teclado, Impressora, Webcam",Site,1578
+75,2023-06-03,2504.61,"Fone de Ouvido, Notebook, Monitor, Webcam",Site,1796
+76,2023-07-18,2724.83,"Monitor, Smartphone",App,1007
+77,2025-01-07,2775.77,"Smartphone, Impressora, Teclado",App,1491
+78,2024-03-06,2015.03,"Notebook, Fone de Ouvido, Mouse, Impressora, Monitor",Loja Física,1751
+79,2025-04-04,3705.97,"Webcam, Fone de Ouvido, Impressora",Televendas,1841
+80,2025-04-23,2154.4,Impressora,Televendas,1564
+81,2024-12-07,4362.33,Notebook,Site,1954
+82,2024-05-14,4982.65,"Webcam, Impressora, Monitor, Fone de Ouvido",App,1572
+83,2023-11-14,2707.74,"Monitor, Teclado",Televendas,1101
+84,2024-08-02,1479.52,"Teclado, Fone de Ouvido, Monitor, Notebook",Televendas,1391
+85,2023-09-18,1245.96,"Impressora, Webcam, Mouse",Site,1842
+86,2023-06-26,4703.18,"Notebook, Smartphone, Monitor, Webcam, Mouse",Site,1478
+87,2024-06-01,3119.08,"Teclado, Notebook, Monitor",Loja Física,1609
+88,2023-06-06,4642.85,"Mouse, Webcam, Notebook",Site,1902
+89,2024-03-18,1892.33,"Monitor, Mouse, Webcam, Notebook",App,1792
+90,2025-01-12,1232.43,"Notebook, Teclado",Televendas,1099
+91,2025-04-04,1176.63,"Fone de Ouvido, Monitor, Webcam, Notebook",App,1708
+92,2023-11-04,2098.88,"Monitor, Teclado",App,1836
+93,2025-02-17,3710.92,"Impressora, Webcam",Loja Física,1313
+94,2024-02-12,1961.81,"Fone de Ouvido, Impressora",App,1582
+95,2025-01-22,39.32,"Webcam, Fone de Ouvido, Teclado, Impressora",App,1163
+96,2023-11-03,1479.84,Mouse,Site,1879
+97,2025-04-01,1682.19,Mouse,Loja Física,1538
+98,2024-06-11,1376.28,"Smartphone, Fone de Ouvido, Impressora, Teclado, Monitor",Televendas,1133
+99,2024-08-15,3442.93,"Teclado, Impressora",Televendas,1629
+100,2024-09-27,4997.28,"Mouse, Monitor, Impressora, Notebook",Loja Física,1808
+101,2023-08-23,3491.38,"Smartphone, Notebook, Fone de Ouvido",Site,1696
+102,2023-10-30,822.94,"Teclado, Webcam",Loja Física,1974
+103,2024-03-17,1090.26,Teclado,Site,1578
+104,2024-10-26,679.8,"Smartphone, Monitor, Impressora, Teclado",App,1314
+105,2024-08-14,1843.88,"Webcam, Impressora",Televendas,1421
+106,2023-11-13,1609.86,"Smartphone, Webcam, Fone de Ouvido",App,1507
+107,2024-07-19,1389.98,"Webcam, Mouse, Impressora, Fone de Ouvido",Loja Física,1978
+108,2023-08-10,3400.24,Webcam,Site,1896
+109,2025-02-01,2125.45,"Smartphone, Fone de Ouvido, Notebook",Loja Física,1556
+110,2023-08-28,4454.86,Fone de Ouvido,Loja Física,1816
+111,2024-03-12,2265.52,"Notebook, Fone de Ouvido, Teclado, Smartphone",Televendas,1579
+112,2023-12-11,769.93,"Monitor, Fone de Ouvido, Smartphone, Impressora, Mouse",Televendas,1777
+113,2024-02-03,938.48,"Monitor, Mouse",App,1359
+114,2024-07-17,4645.46,Smartphone,Televendas,1595
+115,2024-10-04,734.25,"Notebook, Monitor",App,1405
+116,2024-06-27,4459.44,"Impressora, Mouse, Smartphone, Notebook, Webcam",App,1170
+117,2023-07-15,4280.21,"Notebook, Smartphone, Impressora",Site,1908
+118,2023-06-14,4592.19,"Fone de Ouvido, Notebook, Mouse, Teclado",Televendas,1593
+119,2023-09-22,1593.49,Monitor,Loja Física,1238
+120,2025-01-01,483.03,"Impressora, Notebook, Monitor, Mouse, Smartphone",App,1711
+121,2024-12-24,2498.15,"Teclado, Notebook, Monitor, Impressora",Televendas,1722
+122,2023-10-22,245.65,"Fone de Ouvido, Mouse",Loja Física,1484
+123,2024-08-23,1071.63,Smartphone,App,1816
+124,2023-08-02,669.99,"Mouse, Impressora, Notebook",App,1402
+125,2023-11-23,4284.01,"Impressora, Fone de Ouvido, Webcam, Mouse, Teclado",Site,1875
+126,2025-04-23,4767.88,Impressora,App,1420
+127,2024-07-14,3574.78,"Mouse, Smartphone",Loja Física,1699
+128,2024-09-12,4106.48,"Webcam, Impressora, Monitor",Site,1205
+129,2023-10-09,1060.83,Notebook,Loja Física,1943
+130,2023-10-21,1913.75,"Monitor, Impressora, Notebook, Webcam, Fone de Ouvido",Site,1824
+131,2023-05-27,1728.98,"Mouse, Webcam",Loja Física,1563
+132,2024-01-21,4242.78,"Monitor, Fone de Ouvido, Smartphone, Webcam",Site,1874
+133,2024-10-25,507.08,"Teclado, Monitor, Smartphone",Site,1786
+134,2023-10-26,707.84,"Monitor, Smartphone",Televendas,1850
+135,2024-12-03,2140.36,"Webcam, Teclado",Site,1126
+136,2024-08-14,3308.98,"Smartphone, Monitor",Loja Física,1142
+137,2023-08-15,4476.86,"Impressora, Teclado, Webcam",Loja Física,1230
+138,2024-11-16,2547.01,"Teclado, Monitor, Smartphone, Fone de Ouvido, Notebook",Site,1922
+139,2024-10-29,3246.82,"Notebook, Impressora",Televendas,1611
+140,2024-11-18,3735.5,"Fone de Ouvido, Smartphone, Mouse, Notebook, Webcam",Loja Física,1113
+141,2024-08-16,4282.71,"Fone de Ouvido, Mouse",Televendas,1318
+142,2025-04-13,1622.45,"Fone de Ouvido, Webcam, Impressora",Site,1850
+143,2024-01-04,648.1,"Smartphone, Teclado, Notebook, Webcam",App,1187
+144,2023-05-24,190.69,"Notebook, Webcam",Loja Física,1909
+145,2025-01-20,3412.52,"Fone de Ouvido, Teclado, Smartphone",Site,1821
+146,2025-02-27,3051.66,"Impressora, Teclado, Monitor",Televendas,1935
+147,2024-06-11,2741.71,"Notebook, Monitor, Smartphone",App,1957
+148,2024-06-14,4375.21,Mouse,App,1755
+149,2023-09-22,2147.59,"Fone de Ouvido, Notebook, Webcam, Impressora, Monitor",Loja Física,1825
+150,2024-08-20,1756.84,"Notebook, Impressora, Teclado, Monitor",Site,1714
+151,2024-07-05,2327.29,"Mouse, Monitor",Televendas,1769
+152,2025-01-27,615.67,Notebook,Site,1858
+153,2023-07-26,4655.36,"Mouse, Webcam, Notebook, Teclado, Impressora",Televendas,1815
+154,2024-09-02,1317.08,"Fone de Ouvido, Teclado, Smartphone, Webcam, Mouse",Site,1456
+155,2023-07-12,2581.39,"Fone de Ouvido, Webcam, Monitor, Smartphone, Notebook",Site,1745
+156,2023-10-30,2641.85,"Fone de Ouvido, Monitor, Notebook, Webcam, Smartphone",App,1681
+157,2023-07-08,803.5,"Smartphone, Teclado, Notebook, Impressora",Site,1254
+158,2024-03-18,1243.81,"Fone de Ouvido, Impressora, Teclado, Mouse",App,1431
+159,2023-07-08,3980.46,"Impressora, Teclado",Site,1930
+160,2024-08-02,927.76,"Monitor, Webcam, Teclado, Smartphone, Impressora",Site,1669
+161,2024-05-10,1351.6,"Fone de Ouvido, Impressora, Webcam",Site,1612
+162,2024-06-16,4236.09,"Monitor, Mouse, Teclado, Impressora",Loja Física,1942
+163,2025-01-23,4969.87,Teclado,Loja Física,1444
+164,2024-04-13,1716.31,"Mouse, Impressora, Webcam, Smartphone",Site,1486
+165,2024-12-26,166.22,"Monitor, Smartphone, Notebook, Impressora",App,1421
+166,2024-06-27,1354.59,"Notebook, Webcam, Monitor, Teclado",Loja Física,1944
+167,2023-08-21,4206.75,"Notebook, Impressora, Webcam, Smartphone",Televendas,1352
+168,2023-09-21,1861.53,"Teclado, Monitor",App,1018
+169,2024-01-31,4296.68,"Impressora, Monitor, Webcam, Mouse, Smartphone",Televendas,1365
+170,2023-07-17,671.04,"Mouse, Monitor, Webcam, Teclado",Televendas,1852
+171,2024-04-24,1704.19,"Notebook, Mouse",Site,1285
+172,2024-03-28,567.21,"Impressora, Webcam",Televendas,1431
+173,2024-04-10,4395.14,"Fone de Ouvido, Smartphone, Teclado, Impressora, Mouse",Televendas,1383
+174,2023-05-31,1266.08,"Notebook, Teclado, Impressora, Smartphone",Televendas,1938
+175,2023-11-19,459.29,"Fone de Ouvido, Webcam, Mouse, Monitor",Televendas,1127
+176,2024-05-21,3063.1,"Fone de Ouvido, Notebook, Impressora, Teclado, Monitor",Site,1516
+177,2023-09-29,228.53,"Teclado, Impressora, Notebook",App,1348
+178,2023-08-17,1867.21,"Fone de Ouvido, Teclado, Mouse",App,1163
+179,2024-12-21,512.37,"Teclado, Monitor, Webcam",App,1082
+180,2023-09-22,1849.74,Mouse,Loja Física,1507
+181,2024-09-20,1442.34,"Fone de Ouvido, Webcam",Televendas,1728
+182,2024-04-26,2435.91,"Smartphone, Notebook, Webcam, Impressora",App,1450
+183,2024-10-26,4646.56,"Smartphone, Monitor, Teclado",Loja Física,1730
+184,2025-04-16,2620.84,"Fone de Ouvido, Impressora, Teclado, Monitor, Notebook",Loja Física,1457
+185,2024-02-15,4210.19,"Webcam, Notebook",Site,1673
+186,2025-05-12,3753.11,Smartphone,App,1723
+187,2025-03-04,505.55,"Monitor, Webcam",Site,1451
+188,2023-12-10,757.78,Monitor,Loja Física,1949
+189,2024-01-11,1091.38,Impressora,Loja Física,1180
+190,2023-12-21,2270.48,"Impressora, Mouse, Fone de Ouvido, Monitor, Notebook",Site,1699
+191,2023-10-20,4964.88,Mouse,Televendas,1640
+192,2025-05-13,1454.35,"Webcam, Mouse, Notebook, Smartphone, Impressora",Site,1883
+193,2024-01-21,1936.83,"Mouse, Smartphone, Webcam, Monitor, Fone de Ouvido",Loja Física,1279
+194,2024-10-16,1221.73,"Webcam, Fone de Ouvido, Monitor, Teclado, Impressora",App,1909
+195,2023-10-03,1779.69,"Notebook, Smartphone",Site,1361
+196,2023-06-22,4802.7,"Monitor, Teclado, Smartphone, Fone de Ouvido",Televendas,1571
+197,2025-04-26,1812.8,"Smartphone, Teclado, Mouse",Loja Física,1651
+198,2024-05-27,3722.21,"Monitor, Fone de Ouvido, Notebook, Impressora",Loja Física,1990
+199,2024-02-21,3724.46,"Fone de Ouvido, Webcam, Monitor, Teclado, Notebook",Televendas,1812
+200,2024-05-03,55.58,"Teclado, Notebook, Monitor",Site,1571
+201,2025-05-14,2812.23,"Smartphone, Notebook, Teclado",Loja Física,1837
+202,2024-01-01,2786.5,"Mouse, Webcam, Teclado, Impressora",Loja Física,1867
+203,2024-02-14,4750.88,"Notebook, Webcam, Teclado",Loja Física,1485
+204,2023-10-01,3657.27,Monitor,Loja Física,1944
+205,2024-02-19,2410.71,"Impressora, Teclado, Notebook",Televendas,1049
+206,2024-07-05,2585.2,Smartphone,Loja Física,1061
+207,2024-04-13,4421.63,Impressora,Televendas,1384
+208,2024-01-10,680.36,"Monitor, Mouse, Smartphone",App,1082
+209,2025-01-11,4343.64,Smartphone,Loja Física,1377
+210,2023-06-06,874.92,"Impressora, Webcam",App,1609
+211,2025-04-24,25.48,Mouse,Site,1175
+212,2023-06-05,3273.45,"Fone de Ouvido, Smartphone",Loja Física,1971
+213,2024-09-15,1353.4,"Teclado, Smartphone",Televendas,1156
+214,2023-08-02,3991.46,"Smartphone, Fone de Ouvido, Teclado, Impressora",Site,1703
+215,2023-07-23,906.48,"Smartphone, Fone de Ouvido, Teclado, Notebook",Loja Física,1328
+216,2024-07-31,1485.22,Monitor,Televendas,1200
+217,2025-03-22,4701.87,"Notebook, Impressora, Mouse",Televendas,1529
+218,2024-06-24,3097.71,"Smartphone, Fone de Ouvido, Notebook",Loja Física,1920
+219,2024-08-24,1054.82,"Webcam, Notebook",Televendas,1168
+220,2024-03-06,4191.95,"Webcam, Monitor, Smartphone",Loja Física,1226
+221,2024-07-23,2796.77,"Monitor, Mouse, Fone de Ouvido, Teclado",App,1140
+222,2024-04-20,3276.26,"Smartphone, Fone de Ouvido, Teclado",Site,1803
+223,2024-04-15,534.79,"Mouse, Notebook, Monitor, Teclado, Smartphone",App,1773
+224,2023-09-22,713.12,"Fone de Ouvido, Notebook, Smartphone, Teclado",Televendas,1331
+225,2024-03-22,4316.48,Smartphone,Loja Física,1629
+226,2023-09-24,466.67,"Mouse, Impressora, Monitor, Webcam, Smartphone",Loja Física,1652
+227,2024-08-30,4094.82,"Monitor, Mouse, Fone de Ouvido, Notebook",Site,1839
+228,2023-12-29,4843.69,"Teclado, Smartphone, Fone de Ouvido, Impressora",Site,1451
+229,2025-01-16,211.6,Smartphone,App,1486
+230,2024-02-03,484.59,"Impressora, Fone de Ouvido, Smartphone, Mouse",App,1002
+231,2025-04-07,2567.2,"Teclado, Notebook, Mouse",App,1897
+232,2024-11-06,3644.59,"Teclado, Webcam, Monitor, Smartphone",App,1386
+233,2024-01-06,4278.96,"Fone de Ouvido, Mouse, Impressora, Monitor",Televendas,1384
+234,2023-11-25,1000.59,"Notebook, Impressora",App,1478
+235,2023-12-21,1961.34,"Teclado, Webcam, Smartphone, Mouse",Site,1351
+236,2023-08-29,2000.68,"Fone de Ouvido, Impressora, Webcam",Site,1920
+237,2024-09-10,4109.66,Monitor,Televendas,1096
+238,2025-01-30,4123.03,"Notebook, Mouse, Monitor, Smartphone",Site,1510
+239,2024-12-23,4743.57,"Mouse, Teclado, Fone de Ouvido, Notebook, Smartphone",Televendas,1720
+240,2024-07-02,1885.4,"Mouse, Webcam, Notebook",App,1088
+241,2023-06-12,2514.45,"Smartphone, Teclado, Webcam, Impressora",Televendas,1695
+242,2024-01-27,3471.18,"Notebook, Fone de Ouvido, Teclado, Impressora",Site,1713
+243,2025-03-19,4914.33,"Mouse, Smartphone, Webcam, Impressora, Fone de Ouvido",Loja Física,1357
+244,2023-11-15,3831.01,"Smartphone, Mouse",App,1740
+245,2025-02-23,1893.72,"Fone de Ouvido, Smartphone, Notebook, Teclado",Site,1153
+246,2024-11-02,791.19,"Webcam, Fone de Ouvido",Loja Física,1977
+247,2025-04-28,4412.64,Teclado,Loja Física,1531
+248,2024-06-18,2985.61,Smartphone,Loja Física,1271
+249,2024-05-01,4463.87,"Smartphone, Webcam",Site,1580
+250,2023-07-12,2387.46,"Impressora, Fone de Ouvido, Webcam, Monitor, Smartphone",Loja Física,1561
+251,2025-02-18,2326.32,"Fone de Ouvido, Impressora, Mouse, Notebook",App,1187
+252,2024-06-12,1737.18,"Fone de Ouvido, Webcam",App,1319
+253,2023-07-08,4952.16,"Monitor, Webcam, Mouse, Notebook",Loja Física,1536
+254,2024-12-01,3336.34,"Fone de Ouvido, Teclado",Televendas,1976
+255,2024-09-29,2951.74,Mouse,Site,1485
+256,2024-05-04,1432.01,Impressora,Loja Física,1684
+257,2023-07-04,1220.29,"Teclado, Fone de Ouvido, Mouse, Monitor, Smartphone",Loja Física,1738
+258,2025-03-14,757.73,"Mouse, Impressora, Notebook, Teclado, Fone de Ouvido",Televendas,1490
+259,2025-03-10,113.55,"Webcam, Notebook, Mouse",App,1632
+260,2024-06-11,3684.46,"Impressora, Fone de Ouvido, Smartphone, Teclado, Webcam",App,1767
+261,2023-11-13,4799.3,"Fone de Ouvido, Mouse, Webcam, Impressora, Smartphone",Site,1393
+262,2025-01-17,4302.3,"Mouse, Smartphone",App,1629
+263,2023-11-14,3941.17,"Webcam, Mouse, Fone de Ouvido, Teclado",App,1071
+264,2023-11-03,1941.5,"Notebook, Impressora, Mouse, Monitor, Webcam",App,1968
+265,2024-08-02,1873.21,"Impressora, Teclado, Notebook, Smartphone, Monitor",Televendas,1711
+266,2024-11-03,3992.55,"Webcam, Impressora, Monitor, Mouse",Site,1701
+267,2024-04-05,1134.95,"Fone de Ouvido, Teclado, Impressora, Monitor, Mouse",Site,1368
+268,2025-04-23,1299.4,"Webcam, Mouse, Notebook",Loja Física,1390
+269,2024-01-09,2653.74,"Fone de Ouvido, Teclado, Webcam, Impressora",Televendas,1559
+270,2025-02-08,3175.62,"Teclado, Impressora, Mouse, Webcam",Site,1357
+271,2023-08-14,507.04,"Mouse, Fone de Ouvido, Webcam, Monitor, Impressora",App,1303
+272,2025-04-27,3117.6,"Impressora, Smartphone",Site,1197
+273,2024-07-26,1268.36,"Teclado, Mouse, Smartphone, Impressora, Notebook",App,1227
+274,2024-11-16,1116.32,"Smartphone, Teclado, Monitor, Fone de Ouvido, Webcam",Loja Física,1553
+275,2023-10-11,4236.35,"Notebook, Fone de Ouvido, Smartphone, Monitor",Televendas,1052
+276,2023-11-20,2813.03,"Impressora, Fone de Ouvido, Mouse, Monitor, Notebook",App,1957
+277,2023-12-11,4447.98,"Webcam, Smartphone, Impressora",Televendas,1205
+278,2024-12-10,2703.91,Teclado,Site,1516
+279,2024-02-01,94.23,"Webcam, Smartphone, Impressora",Loja Física,1983
+280,2023-06-25,4599.05,"Mouse, Smartphone",Site,1321
+281,2023-08-08,4599.14,Impressora,Televendas,1293
+282,2025-04-20,833.12,"Impressora, Notebook, Monitor",Site,1316
+283,2025-03-15,430.72,Teclado,Site,1813
+284,2023-10-31,37.49,"Smartphone, Mouse, Monitor",Televendas,1780
+285,2023-05-25,99.07,"Fone de Ouvido, Webcam",App,1622
+286,2023-11-30,4191.56,"Teclado, Mouse, Smartphone",Site,1622
+287,2024-08-14,4911.16,"Monitor, Teclado, Webcam, Impressora, Mouse",Loja Física,1189
+288,2023-12-09,493.97,"Impressora, Mouse",Site,1472
+289,2024-08-04,2362.03,"Notebook, Monitor, Teclado, Smartphone, Impressora",Loja Física,1324
+290,2023-08-03,4969.06,"Webcam, Mouse, Smartphone, Notebook",Site,1432
+291,2024-01-05,2023.6,"Teclado, Mouse, Monitor, Fone de Ouvido, Webcam",Loja Física,1626
+292,2024-08-21,4154.01,"Notebook, Fone de Ouvido, Webcam",App,1584
+293,2023-10-28,2048.19,"Smartphone, Fone de Ouvido, Webcam, Impressora, Monitor",Televendas,1270
+294,2024-04-09,2676.75,"Fone de Ouvido, Monitor, Notebook, Webcam",Televendas,1096
+295,2024-12-05,4695.75,Teclado,Site,1608
+296,2023-12-27,3073.88,"Mouse, Fone de Ouvido",Site,1066
+297,2024-12-03,823.99,Teclado,Loja Física,1561
+298,2024-10-28,4175.29,"Notebook, Impressora, Smartphone",Site,1757
+299,2023-10-29,1181.46,"Teclado, Smartphone, Fone de Ouvido, Impressora",Site,1725
+300,2024-09-18,471.29,Fone de Ouvido,Televendas,1693
+301,2024-01-28,2931.3,Impressora,Site,1598
+302,2024-09-27,627.52,"Fone de Ouvido, Impressora, Monitor",Loja Física,1921
+303,2024-03-21,4098.63,Smartphone,Site,1303
+304,2024-09-11,4904.98,"Fone de Ouvido, Teclado, Smartphone",App,1328
+305,2024-02-28,858.24,Notebook,Loja Física,1851
+306,2024-09-03,4756.35,Smartphone,App,1994
+307,2023-09-17,939.63,Notebook,Site,1390
+308,2023-07-17,2180.93,Notebook,Site,1026
+309,2023-09-30,2654.09,"Webcam, Fone de Ouvido, Notebook, Smartphone",Loja Física,1990
+310,2024-05-02,4818.54,Notebook,Site,1349
+311,2025-02-18,796.26,"Webcam, Notebook, Fone de Ouvido",Loja Física,1429
+312,2025-04-23,384.69,"Notebook, Smartphone, Teclado, Fone de Ouvido",Televendas,1832
+313,2024-02-29,3740.71,"Monitor, Smartphone",App,1024
+314,2023-10-28,217.69,"Mouse, Impressora, Teclado",App,1873
+315,2024-06-04,3314.72,"Fone de Ouvido, Teclado, Mouse, Impressora",Loja Física,1368
+316,2024-02-29,582.29,Fone de Ouvido,Site,1128
+317,2024-04-24,270.13,Smartphone,Loja Física,1743
+318,2023-07-08,4241.43,"Mouse, Impressora, Webcam, Monitor, Teclado",Televendas,1516
+319,2025-04-03,2794.04,"Smartphone, Mouse, Fone de Ouvido",Televendas,1444
+320,2023-07-11,2586.79,"Teclado, Fone de Ouvido, Mouse",App,1432
+321,2025-02-16,763.59,"Smartphone, Fone de Ouvido",Loja Física,1801
+322,2023-12-21,2918.62,"Fone de Ouvido, Mouse, Teclado, Smartphone, Webcam",Loja Física,1023
+323,2024-07-07,2473.0,"Webcam, Smartphone",Loja Física,1232
+324,2024-03-06,4412.63,Smartphone,Site,1876
+325,2023-08-25,1700.34,"Impressora, Fone de Ouvido",Loja Física,1559
+326,2025-05-01,4727.73,"Fone de Ouvido, Smartphone, Notebook, Webcam",Televendas,1716
+327,2023-11-20,4396.3,"Impressora, Monitor",Site,1359
+328,2024-05-23,4961.69,Mouse,App,1477
+329,2024-09-07,192.1,"Teclado, Notebook, Mouse, Smartphone",Televendas,1484
+330,2024-12-06,1241.48,Monitor,Televendas,1052
+331,2025-02-04,2983.62,"Mouse, Fone de Ouvido",App,1109
+332,2023-11-05,4423.26,"Impressora, Fone de Ouvido, Notebook",Site,1335
+333,2023-06-29,4679.45,"Fone de Ouvido, Webcam, Mouse, Impressora",Loja Física,1597
+334,2024-04-28,4699.36,"Mouse, Fone de Ouvido, Teclado",Loja Física,1664
+335,2023-12-15,2183.57,"Notebook, Fone de Ouvido, Webcam",Loja Física,1173
+336,2023-07-18,4558.67,"Smartphone, Monitor, Fone de Ouvido, Teclado",Site,1304
+337,2025-03-12,3193.94,"Monitor, Smartphone, Webcam",App,1819
+338,2023-09-01,745.31,"Smartphone, Fone de Ouvido, Webcam, Impressora",Site,1102
+339,2023-10-31,2759.86,"Impressora, Webcam, Monitor, Fone de Ouvido",App,1969
+340,2024-07-28,3134.99,"Smartphone, Notebook",App,1542
+341,2023-09-16,84.35,"Impressora, Smartphone, Monitor, Fone de Ouvido, Mouse",App,1889
+342,2023-07-17,2923.91,"Impressora, Fone de Ouvido, Notebook, Monitor",Televendas,1651
+343,2025-04-28,4477.8,Fone de Ouvido,App,1814
+344,2024-08-10,4854.72,"Monitor, Notebook, Smartphone, Fone de Ouvido",Televendas,1146
+345,2025-04-07,4734.12,"Notebook, Smartphone, Mouse",Loja Física,1480
+346,2024-05-13,1921.77,"Fone de Ouvido, Mouse",App,1421
+347,2024-10-03,2146.47,"Teclado, Monitor, Smartphone, Fone de Ouvido",Televendas,1040
+348,2024-11-21,3291.41,"Notebook, Mouse",Loja Física,1176
+349,2024-02-08,1470.06,Impressora,Site,1121
+350,2024-09-04,875.11,"Mouse, Monitor",Televendas,1616
+351,2024-06-18,2701.37,"Monitor, Webcam, Smartphone, Teclado, Fone de Ouvido",Loja Física,1054
+352,2023-09-15,3902.68,Teclado,Loja Física,1130
+353,2024-03-24,1964.52,"Impressora, Mouse, Fone de Ouvido",Loja Física,1115
+354,2023-06-20,4017.51,"Fone de Ouvido, Mouse, Notebook",Televendas,1089
+355,2023-06-06,4408.79,"Monitor, Impressora, Webcam, Fone de Ouvido, Teclado",Site,1054
+356,2024-10-21,3215.61,"Smartphone, Notebook, Webcam, Mouse",Televendas,1036
+357,2024-09-26,4973.38,"Mouse, Smartphone",Loja Física,1899
+358,2023-05-28,3457.16,"Webcam, Teclado, Smartphone, Mouse",Site,1897
+359,2023-07-30,687.23,"Impressora, Webcam, Notebook, Teclado, Fone de Ouvido",Loja Física,1736
+360,2024-06-24,432.7,"Fone de Ouvido, Mouse",App,1587
+361,2024-05-02,4019.95,Notebook,App,1245
+362,2024-02-13,3263.58,"Notebook, Impressora, Teclado",Loja Física,1368
+363,2024-09-20,2599.34,"Teclado, Mouse, Monitor",App,1809
+364,2024-02-15,3010.66,Webcam,App,1618
+365,2023-06-02,532.57,"Teclado, Monitor, Mouse, Impressora, Fone de Ouvido",Site,1079
+366,2024-11-20,1218.68,"Smartphone, Mouse, Notebook, Fone de Ouvido, Webcam",App,1619
+367,2023-10-10,3575.68,"Mouse, Impressora, Teclado, Monitor, Smartphone",App,1198
+368,2024-08-16,3591.47,Monitor,App,1295
+369,2025-01-04,1683.97,"Monitor, Impressora, Fone de Ouvido, Smartphone, Notebook",App,1059
+370,2023-09-06,4901.94,"Fone de Ouvido, Monitor, Impressora, Smartphone",Site,1734
+371,2025-02-27,1478.26,"Webcam, Teclado, Monitor, Mouse, Fone de Ouvido",Televendas,1847
+372,2023-11-24,142.99,"Smartphone, Monitor, Notebook, Teclado",Site,1822
+373,2024-06-10,4190.62,"Smartphone, Fone de Ouvido, Monitor, Mouse",App,1725
+374,2024-01-30,3464.36,"Teclado, Monitor, Smartphone, Webcam",App,1149
+375,2023-11-22,2232.66,"Impressora, Monitor, Teclado, Fone de Ouvido",Loja Física,1759
+376,2025-01-13,1576.76,"Mouse, Teclado",Loja Física,1889
+377,2025-03-02,3810.73,"Fone de Ouvido, Smartphone, Mouse",Site,1625
+378,2023-06-16,4023.54,"Notebook, Impressora, Webcam, Mouse, Teclado",Site,1701
+379,2023-11-25,3941.4,"Teclado, Smartphone, Notebook, Monitor, Webcam",Televendas,1168
+380,2024-01-30,420.84,"Notebook, Mouse, Fone de Ouvido",App,1283
+381,2024-08-27,4422.82,"Mouse, Teclado, Monitor, Notebook, Webcam",App,1619
+382,2025-04-02,2707.04,"Impressora, Fone de Ouvido",Televendas,1845
+383,2024-01-03,3374.21,"Monitor, Teclado, Fone de Ouvido, Mouse",App,1448
+384,2025-05-06,1934.1,"Impressora, Fone de Ouvido, Notebook",App,1218
+385,2024-09-07,3221.95,Webcam,Televendas,1696
+386,2024-07-13,3656.01,"Smartphone, Webcam, Impressora",Loja Física,1622
+387,2025-02-11,3081.64,"Webcam, Impressora, Smartphone, Notebook, Monitor",Site,1586
+388,2024-12-28,1627.52,"Impressora, Fone de Ouvido, Notebook, Teclado",Televendas,1619
+389,2024-05-17,2941.99,"Impressora, Webcam, Mouse, Fone de Ouvido",Site,1155
+390,2025-02-24,667.6,"Webcam, Fone de Ouvido, Impressora, Mouse",Loja Física,1135
+391,2025-03-25,2147.12,Webcam,App,1604
+392,2025-05-15,4815.14,Teclado,App,1396
+393,2024-12-30,4490.88,"Webcam, Smartphone, Notebook",Loja Física,1277
+394,2023-09-08,4852.3,Notebook,App,1270
+395,2023-11-26,2552.19,"Impressora, Webcam",Loja Física,1652
+396,2024-04-16,4029.88,Mouse,Site,1612
+397,2023-10-22,1802.24,"Notebook, Fone de Ouvido, Impressora, Monitor",Site,1396
+398,2025-02-09,3550.02,"Webcam, Smartphone, Teclado",Site,1252
+399,2024-11-19,4766.74,"Smartphone, Mouse",Televendas,1462
+400,2023-09-21,1293.98,"Impressora, Fone de Ouvido, Notebook, Monitor, Smartphone",Televendas,1007
+401,2024-03-04,2355.08,"Fone de Ouvido, Notebook, Impressora, Smartphone",Loja Física,1689
+402,2025-02-27,3588.14,"Impressora, Notebook, Teclado, Mouse",Site,1865
+403,2024-11-10,2880.71,"Teclado, Notebook",Televendas,1174
+404,2024-01-06,403.84,"Impressora, Monitor, Webcam, Mouse, Notebook",Televendas,1733
+405,2023-06-18,247.61,"Fone de Ouvido, Smartphone, Teclado, Monitor, Impressora",Televendas,1752
+406,2024-05-07,2223.29,"Smartphone, Notebook",Site,1709
+407,2024-10-10,2424.8,Monitor,Loja Física,1546
+408,2023-10-16,4343.19,"Smartphone, Webcam",Site,1518
+409,2024-06-30,2406.4,"Monitor, Notebook",Televendas,1338
+410,2024-05-20,3672.28,"Fone de Ouvido, Monitor, Smartphone, Impressora",Loja Física,1932
+411,2023-09-18,3678.15,"Fone de Ouvido, Impressora, Webcam, Smartphone, Teclado",App,1589
+412,2024-02-10,369.56,"Monitor, Teclado, Webcam, Fone de Ouvido",Site,1982
+413,2023-12-02,4311.57,"Notebook, Smartphone, Fone de Ouvido",Site,1569
+414,2023-06-15,3089.63,"Impressora, Mouse, Teclado, Webcam",Site,1300
+415,2023-10-30,370.65,Monitor,Site,1104
+416,2025-01-04,1859.08,"Monitor, Smartphone, Impressora",Site,1471
+417,2024-05-26,2005.04,"Impressora, Teclado, Webcam",Loja Física,1099
+418,2023-08-05,529.05,"Teclado, Impressora, Webcam, Fone de Ouvido, Monitor",Loja Física,1340
+419,2023-09-11,4340.56,"Impressora, Fone de Ouvido, Monitor",App,1763
+420,2023-10-16,4353.35,"Smartphone, Impressora, Notebook, Webcam, Fone de Ouvido",Loja Física,1948
+421,2023-10-30,2103.66,"Smartphone, Monitor, Notebook, Teclado",App,1167
+422,2024-01-21,663.37,"Smartphone, Mouse, Impressora, Fone de Ouvido, Monitor",App,1367
+423,2024-08-17,2611.48,"Monitor, Teclado",App,1705
+424,2023-10-15,4190.63,"Mouse, Monitor",App,1298
+425,2024-04-29,3083.64,"Monitor, Notebook, Impressora, Fone de Ouvido",Site,1998
+426,2023-11-08,3225.49,"Teclado, Impressora, Fone de Ouvido",Site,1695
+427,2024-02-17,3335.42,"Teclado, Monitor, Smartphone, Webcam",App,1534
+428,2024-12-16,1734.3,"Fone de Ouvido, Mouse, Smartphone, Monitor",Televendas,1498
+429,2025-02-07,701.14,"Monitor, Impressora, Notebook, Smartphone",Televendas,1323
+430,2024-04-03,777.77,"Monitor, Fone de Ouvido, Notebook, Mouse",Televendas,1193
+431,2025-04-07,3255.93,"Mouse, Monitor, Teclado, Webcam, Impressora",Loja Física,1588
+432,2025-03-05,1773.35,"Smartphone, Mouse, Impressora, Notebook, Webcam",Loja Física,1423
+433,2023-07-31,2369.56,"Monitor, Notebook",Televendas,1676
+434,2023-10-11,2153.38,"Impressora, Webcam, Fone de Ouvido, Teclado, Monitor",Loja Física,1680
+435,2024-12-12,3334.51,"Teclado, Smartphone",Televendas,1101
+436,2025-02-23,2221.78,"Mouse, Smartphone, Webcam, Impressora, Monitor",App,1554
+437,2023-07-25,4164.94,"Mouse, Impressora, Notebook, Monitor",App,1000
+438,2024-10-26,2667.8,"Fone de Ouvido, Smartphone, Notebook, Teclado, Mouse",Site,1797
+439,2025-04-02,3960.77,"Webcam, Monitor, Impressora, Notebook",Loja Física,1580
+440,2023-09-14,1175.84,"Smartphone, Webcam, Mouse, Impressora",Televendas,1372
+441,2024-09-17,4786.45,"Fone de Ouvido, Notebook, Monitor, Impressora, Smartphone",Site,1320
+442,2023-10-17,3218.86,"Smartphone, Notebook, Webcam, Teclado",App,1603
+443,2024-06-27,3750.18,"Teclado, Smartphone",Loja Física,1176
+444,2023-08-06,3124.29,"Impressora, Webcam",Televendas,1486
+445,2024-09-30,2710.1,"Mouse, Fone de Ouvido",Televendas,1414
+446,2024-02-14,3480.59,"Webcam, Impressora, Teclado",App,1850
+447,2025-01-08,472.92,"Monitor, Smartphone, Mouse, Impressora",Loja Física,1996
+448,2024-05-03,3071.61,Teclado,App,1351
+449,2024-11-11,4623.16,"Impressora, Smartphone, Mouse, Monitor",Televendas,1924
+450,2024-06-06,4931.2,"Smartphone, Webcam",Televendas,1741
+451,2024-12-14,4518.7,"Mouse, Impressora, Webcam, Monitor",Loja Física,1686
+452,2023-08-18,337.0,"Smartphone, Notebook",App,1297
+453,2024-08-07,1470.01,"Smartphone, Fone de Ouvido, Teclado, Monitor, Webcam",Loja Física,1427
+454,2023-07-04,236.51,"Impressora, Webcam, Teclado",App,1871
+455,2023-07-14,3201.97,"Notebook, Impressora",App,1895
+456,2023-09-17,2048.66,"Notebook, Smartphone, Webcam",Televendas,1498
+457,2024-04-21,4471.01,"Mouse, Impressora, Webcam, Fone de Ouvido",App,1335
+458,2025-01-31,2803.88,"Notebook, Fone de Ouvido",App,1801
+459,2023-12-04,379.6,"Monitor, Impressora, Smartphone, Notebook, Fone de Ouvido",App,1765
+460,2024-03-18,2659.28,"Notebook, Fone de Ouvido, Mouse",Site,1470
+461,2025-03-19,3643.29,"Notebook, Monitor, Mouse, Webcam, Fone de Ouvido",App,1546
+462,2025-03-29,3852.93,"Fone de Ouvido, Monitor, Mouse",Site,1476
+463,2023-12-20,2856.2,"Notebook, Webcam, Mouse, Smartphone, Teclado",Loja Física,1316
+464,2024-04-02,4849.58,"Notebook, Mouse, Impressora, Monitor, Teclado",App,1441
+465,2025-03-05,3344.06,"Monitor, Smartphone, Impressora, Fone de Ouvido",App,1613
+466,2023-06-11,4251.95,"Smartphone, Mouse, Impressora, Notebook",Televendas,1635
+467,2025-04-24,554.63,"Fone de Ouvido, Smartphone, Notebook, Impressora, Teclado",App,1368
+468,2023-06-17,4942.71,Impressora,App,1351
+469,2023-11-28,2735.18,Teclado,Televendas,1480
+470,2023-09-08,3384.46,"Teclado, Monitor, Webcam, Notebook, Smartphone",Site,1869
+471,2023-07-22,4708.76,"Webcam, Fone de Ouvido, Teclado, Impressora, Smartphone",Site,1082
+472,2025-02-18,4267.03,"Teclado, Notebook, Monitor",Loja Física,1568
+473,2024-03-30,4744.62,Smartphone,Loja Física,1941
+474,2024-07-03,4642.05,"Smartphone, Teclado, Fone de Ouvido",Site,1333
+475,2023-12-24,3113.86,Mouse,App,1709
+476,2024-03-19,4629.05,Notebook,Site,1267
+477,2023-10-06,4585.37,"Notebook, Monitor, Webcam",Loja Física,1366
+478,2023-08-29,3259.3,"Fone de Ouvido, Monitor, Smartphone, Notebook",Loja Física,1829
+479,2023-09-25,3497.71,Monitor,App,1941
+480,2025-05-08,4373.62,Webcam,App,1902
+481,2025-02-24,3312.98,"Smartphone, Fone de Ouvido, Webcam, Mouse",Televendas,1072
+482,2024-10-20,4960.13,"Webcam, Mouse",Televendas,1663
+483,2024-01-08,175.22,"Notebook, Fone de Ouvido, Webcam",Televendas,1551
+484,2023-11-11,4954.22,"Monitor, Smartphone",App,1962
+485,2024-11-08,176.23,"Mouse, Monitor, Impressora, Teclado",Televendas,1819
+486,2025-03-23,1488.89,"Teclado, Smartphone",Site,1432
+487,2024-03-16,4672.35,"Impressora, Teclado",App,1078
+488,2023-11-16,4722.56,Mouse,App,1115
+489,2023-11-21,4970.07,"Mouse, Teclado, Smartphone, Monitor",Site,1006
+490,2024-05-16,2540.24,"Mouse, Notebook, Webcam, Fone de Ouvido, Smartphone",Site,1722
+491,2023-07-26,42.06,Notebook,App,1348
+492,2023-11-15,4195.95,"Mouse, Fone de Ouvido, Webcam, Impressora, Teclado",App,1976
+493,2024-02-14,2843.31,"Teclado, Smartphone",Site,1275
+494,2024-02-27,3716.23,"Impressora, Notebook",Televendas,1553
+495,2024-08-23,2718.57,Notebook,App,1048
+496,2024-07-09,4984.05,Smartphone,Televendas,1531
+497,2024-05-13,776.55,"Monitor, Teclado",Loja Física,1771
+498,2024-06-22,1212.02,"Smartphone, Fone de Ouvido, Notebook, Teclado",Site,1520
+499,2023-07-31,3301.69,"Mouse, Notebook, Webcam, Fone de Ouvido, Monitor",App,1387
+500,2024-01-17,2117.23,"Impressora, Webcam, Teclado, Smartphone",Site,1142
+501,2023-08-05,4131.39,Fone de Ouvido,Televendas,1483
+502,2023-11-13,1409.45,"Notebook, Monitor, Teclado",Site,1005
+503,2024-11-16,4377.31,"Impressora, Monitor, Teclado, Smartphone, Webcam",Loja Física,1158
+504,2024-10-15,2691.97,"Impressora, Fone de Ouvido, Mouse, Webcam, Teclado",Loja Física,1517
+505,2024-05-08,2139.87,Monitor,Loja Física,1715
+506,2024-05-12,1893.47,"Mouse, Impressora, Fone de Ouvido",Loja Física,1969
+507,2024-06-01,3895.33,"Fone de Ouvido, Teclado, Smartphone, Mouse, Notebook",Site,1000
+508,2024-12-02,2375.2,"Webcam, Impressora, Notebook, Smartphone",Loja Física,1731
+509,2025-02-11,3174.74,"Smartphone, Webcam, Fone de Ouvido, Impressora",App,1293
+510,2024-05-18,913.91,Teclado,Televendas,1585
+511,2024-04-05,1148.86,"Mouse, Impressora, Smartphone",Televendas,1407
+512,2023-05-24,3216.73,"Webcam, Impressora, Monitor",Loja Física,1314
+513,2024-01-16,961.68,"Teclado, Fone de Ouvido, Impressora",App,1863
+514,2023-08-07,2014.94,Webcam,App,1466
+515,2024-12-26,686.2,"Webcam, Mouse, Fone de Ouvido, Monitor, Impressora",Site,1749
+516,2024-05-11,3364.26,"Smartphone, Fone de Ouvido, Mouse, Notebook",Televendas,1377
+517,2023-10-04,3249.81,Fone de Ouvido,Site,1668
+518,2025-01-05,4022.93,"Smartphone, Monitor, Notebook, Mouse",Televendas,1810
+519,2024-11-05,2851.27,Webcam,Loja Física,1393
+520,2023-09-12,594.61,"Notebook, Mouse, Fone de Ouvido",App,1351
+521,2024-04-04,4105.11,"Smartphone, Mouse, Notebook",App,1857
+522,2024-11-05,4242.66,"Impressora, Monitor",Site,1837
+523,2024-01-30,3088.67,"Notebook, Mouse, Impressora, Webcam",App,1899
+524,2023-09-21,3578.9,"Smartphone, Notebook, Impressora, Webcam",Televendas,1680
+525,2024-05-24,821.67,"Mouse, Smartphone",Televendas,1089
+526,2025-01-29,2930.34,"Teclado, Webcam",Site,1034
+527,2023-08-04,4801.77,"Webcam, Teclado, Fone de Ouvido",Televendas,1520
+528,2024-07-21,1471.01,Teclado,Site,1564
+529,2024-10-20,2165.84,"Fone de Ouvido, Notebook, Smartphone",Loja Física,1312
+530,2025-03-16,2203.22,Monitor,Televendas,1753
+531,2023-08-05,1609.16,"Fone de Ouvido, Teclado",App,1025
+532,2023-07-16,3522.38,"Mouse, Notebook, Webcam, Smartphone, Monitor",App,1352
+533,2024-05-08,272.46,"Teclado, Mouse, Monitor, Smartphone, Fone de Ouvido",Site,1178
+534,2024-04-15,1321.92,Teclado,Loja Física,1150
+535,2024-01-04,169.5,Notebook,Site,1327
+536,2023-10-06,4949.31,"Monitor, Teclado, Fone de Ouvido, Mouse, Smartphone",Site,1937
+537,2023-08-07,3202.56,"Mouse, Notebook, Impressora, Fone de Ouvido, Teclado",Televendas,1080
+538,2025-04-25,2385.39,"Webcam, Smartphone, Teclado, Notebook",Televendas,1997
+539,2023-07-28,4849.56,"Mouse, Monitor, Smartphone, Webcam, Fone de Ouvido",Televendas,1408
+540,2025-03-10,2436.9,"Fone de Ouvido, Notebook, Mouse",App,1122
+541,2024-07-07,3131.69,Teclado,Loja Física,1978
+542,2024-12-18,159.03,Mouse,App,1827
+543,2023-06-05,1781.8,"Monitor, Webcam, Impressora",App,1257
+544,2024-11-24,1306.02,Fone de Ouvido,Loja Física,1077
+545,2025-05-08,4567.63,"Fone de Ouvido, Impressora, Smartphone",Loja Física,1150
+546,2023-12-09,185.61,"Webcam, Mouse, Monitor, Notebook",Site,1660
+547,2023-11-27,168.4,"Teclado, Impressora",Loja Física,1293
+548,2024-08-19,4554.8,"Notebook, Mouse, Smartphone, Fone de Ouvido, Monitor",App,1297
+549,2025-02-25,242.69,"Teclado, Mouse, Smartphone, Fone de Ouvido",Televendas,1950
+550,2024-11-03,3956.78,"Notebook, Mouse",Loja Física,1514
+551,2024-04-12,3989.56,Mouse,App,1178
+552,2023-08-24,4994.98,Monitor,App,1259
+553,2023-12-05,3741.63,"Fone de Ouvido, Webcam",App,1784
+554,2024-02-26,1648.25,"Smartphone, Notebook, Webcam, Fone de Ouvido, Monitor",Site,1332
+555,2025-01-13,2704.12,Fone de Ouvido,Televendas,1355
+556,2024-08-22,2126.76,"Monitor, Notebook",Loja Física,1323
+557,2024-07-15,3185.25,"Webcam, Monitor, Teclado, Smartphone",Televendas,1577
+558,2023-08-24,1109.94,Mouse,App,1517
+559,2025-05-11,1786.24,"Monitor, Smartphone",Site,1344
+560,2025-02-17,893.33,"Impressora, Notebook",App,1254
+561,2024-07-27,4032.81,"Notebook, Teclado",Loja Física,1772
+562,2024-11-02,1355.4,"Fone de Ouvido, Notebook",Loja Física,1492
+563,2025-02-17,4069.56,Smartphone,Site,1808
+564,2024-04-18,2276.8,"Fone de Ouvido, Notebook",Loja Física,1884
+565,2024-04-03,3507.14,"Fone de Ouvido, Impressora, Teclado, Notebook",Site,1014
+566,2024-04-29,1642.68,"Smartphone, Teclado, Impressora, Notebook",Televendas,1309
+567,2024-06-30,3582.42,"Fone de Ouvido, Notebook",App,1925
+568,2024-09-29,124.35,"Monitor, Notebook, Webcam, Fone de Ouvido, Impressora",Site,1567
+569,2024-01-25,2464.48,"Webcam, Fone de Ouvido, Teclado",Televendas,1227
+570,2023-07-23,3202.87,Webcam,Loja Física,1197
+571,2025-01-26,221.42,"Smartphone, Webcam, Teclado, Notebook",Site,1485
+572,2024-10-14,1747.33,"Monitor, Fone de Ouvido, Mouse",App,1102
+573,2024-04-05,2810.74,"Teclado, Notebook, Smartphone, Webcam, Monitor",Loja Física,1093
+574,2024-09-18,3967.71,"Notebook, Impressora",App,1593
+575,2025-03-31,983.43,"Teclado, Smartphone, Fone de Ouvido",Site,1627
+576,2023-10-04,2229.59,"Impressora, Webcam, Mouse, Teclado, Notebook",Loja Física,1914
+577,2024-10-17,167.87,Monitor,Televendas,1587
+578,2023-09-25,2672.66,"Mouse, Fone de Ouvido, Notebook, Teclado, Monitor",Televendas,1844
+579,2024-11-17,4533.85,"Monitor, Impressora, Teclado, Webcam",Televendas,1566
+580,2024-12-01,4356.25,"Fone de Ouvido, Monitor, Webcam",Televendas,1289
+581,2024-10-24,2508.71,"Monitor, Mouse, Smartphone, Teclado, Impressora",Site,1153
+582,2023-08-18,3964.26,Webcam,Televendas,1094
+583,2024-02-02,1349.28,"Fone de Ouvido, Smartphone, Teclado, Monitor, Webcam",Televendas,1607
+584,2023-06-22,2020.82,"Smartphone, Fone de Ouvido, Mouse, Teclado, Impressora",App,1589
+585,2024-10-21,1764.1,"Impressora, Fone de Ouvido, Webcam, Mouse, Monitor",Loja Física,1403
+586,2023-11-28,2257.82,"Smartphone, Teclado, Fone de Ouvido",Televendas,1324
+587,2024-08-10,2780.39,"Smartphone, Webcam, Teclado, Fone de Ouvido",Loja Física,1357
+588,2023-05-28,3682.65,"Monitor, Mouse, Impressora, Smartphone",Site,1591
+589,2025-04-17,4628.35,"Impressora, Teclado",Site,1193
+590,2025-05-10,3703.15,"Impressora, Fone de Ouvido, Monitor",Site,1876
+591,2024-07-11,1900.75,"Monitor, Smartphone",Loja Física,1604
+592,2023-12-11,925.7,"Webcam, Smartphone, Impressora, Fone de Ouvido, Mouse",Loja Física,1572
+593,2024-01-23,2609.54,"Mouse, Notebook",Loja Física,1781
+594,2025-05-03,934.21,"Webcam, Smartphone, Mouse",Televendas,1215
+595,2025-01-07,1264.96,"Monitor, Smartphone, Notebook, Impressora",Site,1597
+596,2023-12-03,3947.85,"Smartphone, Notebook, Monitor, Fone de Ouvido",Site,1169
+597,2023-12-05,2963.87,"Smartphone, Webcam, Teclado",Televendas,1679
+598,2025-03-08,4143.88,"Webcam, Mouse, Notebook, Smartphone, Monitor",Site,1424
+599,2023-09-01,2622.25,"Monitor, Fone de Ouvido, Teclado",Site,1552
+600,2025-03-15,3362.98,"Monitor, Smartphone",Site,1275
+601,2024-07-10,4006.68,Fone de Ouvido,Site,1412
+602,2024-08-07,3777.86,"Notebook, Impressora, Smartphone, Webcam",App,1720
+603,2024-01-11,4237.37,"Impressora, Notebook, Monitor",App,1809
+604,2024-08-22,4518.35,"Notebook, Teclado, Monitor, Fone de Ouvido, Webcam",Site,1833
+605,2025-05-16,730.74,Notebook,Loja Física,1728
+606,2024-01-24,4745.82,Webcam,Loja Física,1533
+607,2025-02-02,804.93,"Smartphone, Mouse, Impressora",App,1721
+608,2024-11-01,3010.43,"Teclado, Webcam, Fone de Ouvido, Notebook, Monitor",Site,1988
+609,2023-06-19,4435.37,"Teclado, Webcam",Site,1597
+610,2025-05-03,461.73,"Notebook, Fone de Ouvido, Mouse",Televendas,1889
+611,2024-06-07,3952.47,"Fone de Ouvido, Notebook, Webcam",App,1781
+612,2024-06-01,1055.07,"Webcam, Mouse, Notebook",Loja Física,1274
+613,2024-04-22,2181.71,"Smartphone, Notebook, Teclado, Mouse",Televendas,1531
+614,2025-03-11,2718.1,"Smartphone, Teclado",Site,1328
+615,2024-10-16,572.75,"Smartphone, Monitor, Impressora, Fone de Ouvido",Loja Física,1187
+616,2025-02-15,10.5,"Impressora, Webcam, Fone de Ouvido",Televendas,1994
+617,2024-10-03,4344.54,"Impressora, Teclado",Televendas,1870
+618,2025-05-14,2474.22,"Smartphone, Notebook, Mouse",Loja Física,1378
+619,2024-11-29,1150.55,Mouse,App,1346
+620,2025-05-06,3237.06,"Mouse, Monitor, Webcam, Notebook, Impressora",Site,1500
+621,2025-01-05,177.96,"Mouse, Teclado, Monitor",App,1710
+622,2024-06-19,2115.75,"Impressora, Smartphone",Televendas,1412
+623,2023-11-21,1835.81,"Mouse, Impressora, Webcam, Smartphone, Notebook",App,1885
+624,2024-03-04,3800.61,"Mouse, Teclado, Webcam, Fone de Ouvido",Loja Física,1076
+625,2023-10-21,2705.22,"Teclado, Impressora, Smartphone",Loja Física,1719
+626,2025-03-07,2865.99,"Mouse, Fone de Ouvido, Notebook",Televendas,1494
+627,2024-05-22,2016.72,Notebook,Site,1819
+628,2025-05-01,992.76,"Monitor, Smartphone, Impressora, Webcam",App,1778
+629,2024-10-22,4939.77,"Notebook, Impressora, Mouse, Smartphone",Site,1097
+630,2024-02-13,3914.75,"Teclado, Mouse, Notebook, Fone de Ouvido",Loja Física,1527
+631,2023-08-01,130.58,"Teclado, Smartphone, Notebook, Impressora",Loja Física,1036
+632,2024-10-06,181.51,"Monitor, Webcam",Site,1371
+633,2024-12-31,2246.63,"Mouse, Teclado, Monitor, Fone de Ouvido",Televendas,1829
+634,2025-04-20,547.54,"Fone de Ouvido, Smartphone, Monitor, Impressora",App,1815
+635,2024-10-12,2866.71,Webcam,App,1274
+636,2025-05-22,118.48,Impressora,Loja Física,1008
+637,2023-09-20,37.03,"Impressora, Mouse, Teclado, Smartphone",Site,1420
+638,2024-08-29,4144.25,"Fone de Ouvido, Smartphone, Mouse, Teclado",Televendas,1865
+639,2024-06-21,3334.45,"Impressora, Notebook, Webcam, Smartphone",Televendas,1380
+640,2025-03-08,2663.87,"Smartphone, Impressora, Fone de Ouvido",Televendas,1618
+641,2023-06-19,3138.09,Monitor,Televendas,1197
+642,2024-08-02,1505.27,"Teclado, Monitor, Smartphone, Impressora",Site,1029
+643,2023-09-15,2107.28,"Fone de Ouvido, Smartphone",Loja Física,1103
+644,2023-11-22,3447.69,"Webcam, Mouse",Televendas,1967
+645,2024-06-25,3556.0,"Impressora, Notebook, Mouse, Fone de Ouvido",Site,1033
+646,2024-03-05,3049.75,"Smartphone, Teclado",Televendas,1923
+647,2023-12-21,3774.88,"Mouse, Notebook, Impressora, Webcam",Televendas,1033
+648,2023-07-16,149.55,"Monitor, Notebook, Fone de Ouvido, Webcam, Smartphone",Televendas,1272
+649,2025-01-23,3370.73,"Notebook, Smartphone, Monitor, Mouse",Loja Física,1853
+650,2025-03-03,1528.06,"Fone de Ouvido, Impressora, Notebook, Teclado",App,1601
+651,2025-01-29,3555.46,"Fone de Ouvido, Mouse",Loja Física,1693
+652,2024-04-30,4928.64,Smartphone,App,1925
+653,2025-03-03,4716.49,"Fone de Ouvido, Mouse",Televendas,1154
+654,2025-03-13,2021.33,"Teclado, Impressora, Mouse",App,1072
+655,2024-12-17,4931.06,Monitor,App,1397
+656,2023-06-16,2665.67,"Teclado, Monitor",Televendas,1111
+657,2024-10-20,3277.09,"Mouse, Webcam, Notebook, Teclado, Monitor",Loja Física,1809
+658,2025-03-30,1686.72,"Monitor, Impressora, Notebook, Mouse, Smartphone",Televendas,1392
+659,2024-05-21,4171.4,"Notebook, Impressora, Mouse",Site,1107
+660,2024-11-22,2428.32,"Mouse, Smartphone, Webcam, Notebook, Monitor",Loja Física,1554
+661,2025-04-14,652.58,Smartphone,Televendas,1464
+662,2025-03-30,4748.78,"Fone de Ouvido, Smartphone, Impressora",Televendas,1894
+663,2024-04-25,3681.7,"Smartphone, Notebook, Teclado, Webcam",App,1598
+664,2024-10-19,1604.6,"Monitor, Webcam",App,1499
+665,2023-08-13,2595.26,Mouse,Televendas,1934
+666,2024-06-21,1799.51,Impressora,Site,1450
+667,2024-08-03,1971.16,"Monitor, Impressora",Site,1413
+668,2023-11-18,2641.34,"Notebook, Teclado",App,1015
+669,2023-12-13,4090.44,"Mouse, Notebook",Loja Física,1401
+670,2024-04-05,3982.1,Notebook,Site,1883
+671,2024-01-01,295.65,"Fone de Ouvido, Notebook, Impressora",App,1955
+672,2025-02-14,4209.73,"Mouse, Fone de Ouvido",Televendas,1420
+673,2023-09-25,4495.23,Mouse,Site,1511
+674,2023-10-31,1844.97,"Webcam, Monitor, Mouse, Impressora",Loja Física,1385
+675,2024-03-16,4501.62,"Impressora, Smartphone, Webcam",Televendas,1359
+676,2025-04-05,1396.91,"Fone de Ouvido, Monitor, Impressora",Loja Física,1685
+677,2024-02-02,4788.38,"Impressora, Mouse",Televendas,1204
+678,2025-03-22,931.91,Mouse,Loja Física,1028
+679,2024-12-15,4835.46,"Smartphone, Webcam, Fone de Ouvido",Site,1512
+680,2023-06-05,993.12,"Smartphone, Mouse, Notebook, Fone de Ouvido, Monitor",Televendas,1517
+681,2024-07-06,1745.49,Fone de Ouvido,App,1512
+682,2024-11-16,2325.9,"Webcam, Fone de Ouvido",Televendas,1415
+683,2023-05-26,3979.39,"Monitor, Fone de Ouvido, Webcam",Televendas,1336
+684,2025-03-29,2177.48,"Mouse, Impressora, Smartphone",Televendas,1355
+685,2023-07-14,3318.58,"Fone de Ouvido, Mouse, Smartphone",Site,1532
+686,2024-11-06,4856.1,"Mouse, Teclado, Smartphone",Site,1129
+687,2024-11-04,1821.72,Notebook,App,1946
+688,2024-06-25,4508.31,"Impressora, Teclado, Smartphone, Notebook",Loja Física,1160
+689,2023-09-25,1757.33,Teclado,App,1211
+690,2024-08-23,1279.96,"Monitor, Mouse",Televendas,1390
+691,2024-01-10,1465.02,"Teclado, Webcam, Impressora, Smartphone, Mouse",Loja Física,1643
+692,2025-03-09,866.49,"Teclado, Mouse",Televendas,1795
+693,2025-04-11,2117.06,"Fone de Ouvido, Teclado, Monitor",Televendas,1293
+694,2024-09-04,590.15,"Smartphone, Fone de Ouvido, Notebook",Loja Física,1619
+695,2025-04-24,4245.3,"Teclado, Fone de Ouvido, Notebook",App,1156
+696,2023-07-07,1693.8,"Fone de Ouvido, Monitor",App,1839
+697,2025-05-14,728.78,"Smartphone, Webcam, Impressora, Teclado",App,1038
+698,2024-01-03,4001.39,"Mouse, Fone de Ouvido, Monitor, Teclado",Loja Física,1278
+699,2024-02-24,2691.13,"Impressora, Notebook, Smartphone, Fone de Ouvido",Loja Física,1136
+700,2023-12-13,1815.28,"Smartphone, Fone de Ouvido, Impressora",App,1861
+701,2025-04-27,2725.9,"Smartphone, Teclado, Fone de Ouvido, Webcam, Monitor",Televendas,1184
+702,2025-05-17,2059.67,"Mouse, Teclado, Smartphone",Site,1122
+703,2024-11-16,4144.42,"Mouse, Impressora, Fone de Ouvido, Webcam",Loja Física,1678
+704,2025-02-02,329.33,"Notebook, Smartphone",App,1517
+705,2024-01-04,408.15,"Smartphone, Notebook, Teclado, Monitor, Webcam",App,1834
+706,2023-12-12,1817.15,"Notebook, Teclado",Loja Física,1488
+707,2024-12-05,172.08,Impressora,Loja Física,1801
+708,2024-03-09,1956.28,"Notebook, Teclado, Mouse, Monitor",Televendas,1040
+709,2024-09-18,2376.05,"Webcam, Monitor",Televendas,1072
+710,2024-01-11,2077.66,Fone de Ouvido,Loja Física,1696
+711,2024-09-13,3313.41,"Teclado, Mouse, Impressora, Webcam",Site,1317
+712,2024-04-13,436.93,"Impressora, Mouse, Fone de Ouvido, Teclado",App,1107
+713,2025-03-15,3626.64,"Notebook, Teclado, Impressora, Mouse, Monitor",Site,1690
+714,2024-06-11,4223.25,"Mouse, Impressora, Monitor, Smartphone",Televendas,1136
+715,2023-12-16,3215.27,"Notebook, Teclado, Mouse, Webcam, Smartphone",App,1650
+716,2024-06-12,4003.88,"Monitor, Teclado, Notebook",App,1095
+717,2023-12-09,1083.36,Monitor,App,1039
+718,2023-12-10,3679.0,"Fone de Ouvido, Webcam",Loja Física,1460
+719,2024-02-18,1159.37,"Smartphone, Webcam, Monitor, Mouse",App,1093
+720,2025-01-16,4816.71,Mouse,App,1542
+721,2025-04-30,4028.21,"Monitor, Teclado, Impressora",Loja Física,1704
+722,2023-12-21,2181.5,"Impressora, Monitor, Webcam, Mouse, Fone de Ouvido",Televendas,1169
+723,2023-11-10,1633.41,"Impressora, Smartphone",Site,1844
+724,2024-06-21,3109.01,"Impressora, Mouse",Televendas,1296
+725,2023-12-26,2672.85,Monitor,App,1898
+726,2024-09-14,4210.22,"Impressora, Monitor, Smartphone",Televendas,1052
+727,2024-10-17,4893.57,"Impressora, Teclado, Webcam",App,1789
+728,2024-07-05,4300.81,"Smartphone, Fone de Ouvido, Teclado, Impressora, Monitor",Site,1728
+729,2025-01-12,4186.23,"Smartphone, Notebook, Webcam",Site,1027
+730,2024-02-03,3450.82,Fone de Ouvido,App,1484
+731,2025-03-04,671.54,"Monitor, Notebook, Smartphone",Loja Física,1616
+732,2024-07-18,3013.27,"Mouse, Monitor",Site,1814
+733,2025-04-26,2049.79,"Impressora, Smartphone",Televendas,1168
+734,2024-06-22,4381.52,"Webcam, Mouse, Impressora",Loja Física,1761
+735,2024-09-03,1006.2,Smartphone,Televendas,1762
+736,2023-07-21,468.98,Mouse,Loja Física,1275
+737,2024-05-27,3602.02,"Teclado, Mouse, Smartphone",Televendas,1498
+738,2024-06-09,1601.12,"Teclado, Notebook, Smartphone, Monitor",App,1501
+739,2025-03-21,1462.27,"Monitor, Notebook, Fone de Ouvido",Televendas,1321
+740,2023-08-06,2096.14,"Webcam, Mouse, Monitor, Fone de Ouvido",Site,1167
+741,2025-03-27,3603.1,"Fone de Ouvido, Mouse, Teclado, Monitor, Impressora",Site,1303
+742,2023-11-04,4062.96,"Impressora, Teclado, Webcam, Smartphone",Televendas,1209
+743,2023-11-01,1552.17,"Monitor, Mouse, Fone de Ouvido",App,1607
+744,2024-11-17,1568.79,"Smartphone, Fone de Ouvido",App,1305
+745,2024-11-19,1729.14,Mouse,Loja Física,1734
+746,2024-03-31,2446.95,"Smartphone, Monitor",Loja Física,1989
+747,2025-05-06,3931.28,Notebook,App,1198
+748,2025-04-06,4301.86,"Webcam, Fone de Ouvido, Teclado",App,1508
+749,2024-10-10,3565.32,"Webcam, Smartphone, Notebook, Monitor, Teclado",Site,1932
+750,2024-08-26,713.32,"Webcam, Fone de Ouvido",Site,1511
+751,2024-05-29,1965.95,"Fone de Ouvido, Notebook",App,1524
+752,2023-07-05,2387.16,Teclado,Televendas,1377
+753,2025-03-19,427.15,Teclado,Loja Física,1938
+754,2024-08-05,3468.84,"Webcam, Monitor",App,1347
+755,2023-10-30,1922.87,"Webcam, Teclado, Smartphone",Loja Física,1322
+756,2024-12-05,3489.72,"Fone de Ouvido, Webcam, Teclado",Televendas,1095
+757,2025-03-09,1492.56,"Fone de Ouvido, Webcam",Site,1292
+758,2024-07-08,536.81,"Webcam, Teclado",Site,1557
+759,2024-01-18,1993.38,Impressora,App,1615
+760,2023-07-16,3431.31,Mouse,Televendas,1803
+761,2024-01-16,1434.25,"Fone de Ouvido, Teclado",App,1729
+762,2023-07-12,3927.79,"Impressora, Monitor",Televendas,1992
+763,2024-06-08,2151.57,"Teclado, Monitor, Mouse, Notebook, Fone de Ouvido",Televendas,1478
+764,2025-04-13,4401.48,"Monitor, Impressora, Webcam, Teclado",Site,1826
+765,2023-09-30,2981.94,"Impressora, Smartphone, Fone de Ouvido",App,1322
+766,2024-10-01,2482.41,"Mouse, Notebook, Teclado",Site,1180
+767,2023-06-16,3871.52,"Webcam, Mouse, Fone de Ouvido, Notebook, Monitor",Loja Física,1574
+768,2025-02-25,3159.9,Webcam,Televendas,1400
+769,2024-02-02,1004.86,Smartphone,App,1793
+770,2023-09-11,1180.54,"Monitor, Impressora, Teclado, Smartphone",Televendas,1454
+771,2024-04-08,2581.9,"Mouse, Webcam, Smartphone, Impressora",Televendas,1629
+772,2025-03-07,1216.47,"Notebook, Fone de Ouvido, Monitor",Site,1391
+773,2023-08-04,4871.66,"Teclado, Monitor, Notebook, Webcam",Loja Física,1251
+774,2023-05-27,4263.85,Notebook,Site,1545
+775,2025-01-16,3716.22,Monitor,Televendas,1103
+776,2023-09-04,3186.47,"Monitor, Impressora, Mouse, Fone de Ouvido",App,1022
+777,2023-11-11,895.8,Mouse,Loja Física,1672
+778,2025-03-19,1770.29,"Smartphone, Impressora, Monitor, Fone de Ouvido",App,1652
+779,2023-10-11,4705.78,"Impressora, Monitor, Mouse, Notebook",App,1161
+780,2024-05-02,2633.44,Impressora,App,1828
+781,2025-05-04,4667.32,"Teclado, Impressora, Notebook",App,1670
+782,2024-03-28,2411.93,"Monitor, Fone de Ouvido",Site,1194
+783,2024-11-05,3039.58,"Notebook, Webcam, Fone de Ouvido",Site,1139
+784,2025-03-26,3100.82,Webcam,Televendas,1813
+785,2023-06-01,4862.33,"Smartphone, Notebook",Loja Física,1938
+786,2024-11-27,4432.56,Mouse,Televendas,1799
+787,2023-12-05,756.04,"Fone de Ouvido, Teclado, Notebook, Monitor",Site,1247
+788,2024-03-06,1540.32,Monitor,Site,1516
+789,2025-04-16,4237.14,"Teclado, Impressora, Monitor",Televendas,1037
+790,2023-09-21,4442.37,Teclado,Site,1405
+791,2023-07-06,2648.77,Smartphone,Televendas,1015
+792,2023-08-15,3516.43,Fone de Ouvido,Loja Física,1152
+793,2024-12-02,566.4,"Notebook, Teclado, Fone de Ouvido, Impressora, Monitor",Televendas,1626
+794,2025-03-31,4460.05,"Notebook, Fone de Ouvido, Monitor, Teclado",Site,1894
+795,2024-08-17,303.49,"Fone de Ouvido, Smartphone, Monitor, Webcam, Mouse",Site,1758
+796,2024-09-19,3334.87,Smartphone,Loja Física,1493
+797,2023-10-27,1594.74,"Webcam, Teclado",Televendas,1009
+798,2023-09-17,2165.16,"Impressora, Monitor, Notebook, Smartphone",Loja Física,1540
+799,2024-10-31,2645.33,"Monitor, Webcam, Notebook, Smartphone, Fone de Ouvido",App,1156
+800,2023-08-25,3215.93,"Monitor, Teclado, Webcam, Notebook, Fone de Ouvido",Loja Física,1999
+801,2024-06-05,1747.31,Fone de Ouvido,Site,1344
+802,2025-05-06,1583.02,"Notebook, Monitor, Teclado",Loja Física,1395
+803,2023-09-24,4974.12,"Impressora, Teclado",Televendas,1867
+804,2025-01-30,124.84,"Smartphone, Webcam, Fone de Ouvido, Mouse",Site,1374
+805,2025-02-17,2798.02,"Teclado, Impressora, Fone de Ouvido, Mouse, Smartphone",Site,1867
+806,2024-09-12,2679.04,"Fone de Ouvido, Mouse",Site,1087
+807,2025-05-18,2988.71,"Monitor, Mouse, Teclado",Site,1540
+808,2023-12-24,4873.75,Webcam,Televendas,1673
+809,2025-01-02,1073.23,"Smartphone, Teclado",Site,1372
+810,2024-11-08,4963.74,"Monitor, Smartphone",Site,1085
+811,2023-05-30,1384.0,"Impressora, Fone de Ouvido",App,1440
+812,2024-05-28,215.69,"Monitor, Fone de Ouvido",Site,1215
+813,2024-08-02,2504.77,"Notebook, Monitor, Smartphone, Mouse, Teclado",Televendas,1424
+814,2023-06-25,1829.0,"Fone de Ouvido, Monitor",App,1579
+815,2024-11-01,3495.47,"Mouse, Smartphone, Fone de Ouvido, Monitor, Impressora",Site,1284
+816,2025-01-22,4285.92,"Impressora, Webcam, Monitor",Site,1823
+817,2024-06-09,2614.39,"Notebook, Mouse, Webcam, Teclado",Site,1481
+818,2023-08-15,1358.05,"Monitor, Teclado, Notebook, Mouse",Site,1343
+819,2024-05-09,414.3,"Smartphone, Teclado, Webcam, Monitor, Notebook",Televendas,1034
+820,2024-03-24,109.37,"Webcam, Fone de Ouvido, Impressora",Loja Física,1803
+821,2024-08-23,4747.19,"Monitor, Teclado, Impressora",App,1049
+822,2024-05-30,4785.14,"Notebook, Teclado, Smartphone",Site,1536
+823,2024-01-17,3708.75,"Fone de Ouvido, Monitor, Smartphone",Site,1444
+824,2024-11-11,1896.01,"Smartphone, Impressora, Webcam",Site,1476
+825,2023-07-06,1262.15,Impressora,App,1843
+826,2025-03-16,2615.97,"Smartphone, Fone de Ouvido",App,1457
+827,2024-06-03,2730.93,"Mouse, Notebook",App,1778
+828,2025-05-08,1884.14,"Impressora, Monitor, Notebook, Teclado",Televendas,1075
+829,2023-11-12,4720.57,"Monitor, Teclado, Notebook, Impressora, Webcam",Televendas,1354
+830,2024-01-24,2437.76,"Impressora, Fone de Ouvido, Notebook, Teclado, Monitor",Site,1663
+831,2024-03-01,3844.18,"Impressora, Mouse, Notebook, Smartphone, Monitor",App,1738
+832,2024-08-26,3984.9,"Mouse, Fone de Ouvido, Monitor, Webcam, Teclado",Site,1905
+833,2023-12-24,1169.62,"Fone de Ouvido, Smartphone, Webcam, Monitor",Loja Física,1168
+834,2024-05-22,3269.77,"Notebook, Fone de Ouvido, Webcam, Impressora, Teclado",App,1924
+835,2024-10-12,3003.52,"Smartphone, Fone de Ouvido",App,1987
+836,2025-02-27,1045.83,"Impressora, Notebook, Teclado",Site,1255
+837,2024-09-19,4000.38,"Monitor, Webcam, Fone de Ouvido",Loja Física,1499
+838,2024-08-26,895.93,"Monitor, Webcam, Impressora",Site,1080
+839,2023-11-01,3758.65,"Notebook, Mouse",Loja Física,1808
+840,2024-04-08,837.56,"Webcam, Teclado, Impressora",Loja Física,1942
+841,2024-09-12,4490.43,"Monitor, Smartphone, Notebook, Impressora, Mouse",Televendas,1566
+842,2023-08-12,4105.18,Monitor,Loja Física,1207
+843,2024-09-03,840.26,"Impressora, Webcam, Monitor",Loja Física,1488
+844,2025-03-25,2834.42,Teclado,Televendas,1744
+845,2023-12-17,1749.37,"Smartphone, Mouse, Webcam",Televendas,1514
+846,2024-10-20,1390.31,Smartphone,App,1861
+847,2024-06-19,31.05,"Mouse, Notebook",App,1032
+848,2023-11-09,2544.21,"Notebook, Smartphone, Impressora",App,1915
+849,2023-11-29,2543.13,"Webcam, Smartphone, Fone de Ouvido",Site,1914
+850,2023-08-03,4773.28,"Fone de Ouvido, Notebook, Mouse, Impressora, Smartphone",Televendas,1486
+851,2023-12-21,1324.18,"Monitor, Mouse",Site,1251
+852,2024-08-31,4173.68,Fone de Ouvido,Site,1958
+853,2023-09-19,4536.26,Webcam,Site,1867
+854,2023-05-23,3341.07,"Mouse, Smartphone",Televendas,1702
+855,2025-04-09,246.38,"Impressora, Teclado, Monitor, Notebook, Fone de Ouvido",App,1263
+856,2024-07-01,1344.96,Impressora,Loja Física,1968
+857,2024-10-22,455.63,"Mouse, Smartphone",Televendas,1138
+858,2024-01-31,3085.23,"Impressora, Mouse, Smartphone, Notebook",Site,1923
+859,2023-07-12,3961.93,"Webcam, Mouse, Notebook, Impressora, Fone de Ouvido",Site,1735
+860,2024-07-20,1303.53,"Mouse, Impressora, Fone de Ouvido",Site,1396
+861,2024-07-28,2652.06,"Notebook, Impressora, Webcam, Mouse",App,1361
+862,2023-12-01,3793.72,"Monitor, Teclado, Impressora, Mouse, Notebook",Televendas,1887
+863,2023-10-27,2912.88,"Teclado, Webcam, Monitor",App,1125
+864,2025-01-04,168.15,Impressora,Site,1514
+865,2025-05-04,699.86,"Monitor, Smartphone, Fone de Ouvido, Webcam, Teclado",App,1585
+866,2025-03-09,13.39,Teclado,Site,1974
+867,2024-01-08,1695.92,"Fone de Ouvido, Mouse, Notebook",App,1753
+868,2024-03-29,1524.64,"Webcam, Notebook, Impressora, Teclado",Loja Física,1163
+869,2024-07-27,4057.79,"Fone de Ouvido, Notebook, Monitor, Teclado",Loja Física,1914
+870,2023-12-01,1511.31,"Impressora, Notebook, Monitor, Mouse",App,1723
+871,2023-07-16,19.55,"Mouse, Monitor, Notebook, Teclado",Televendas,1863
+872,2025-03-05,1400.95,"Notebook, Webcam, Impressora, Fone de Ouvido",Loja Física,1943
+873,2025-05-09,2686.48,"Webcam, Fone de Ouvido, Smartphone, Impressora",Televendas,1080
+874,2025-02-03,3557.03,"Mouse, Impressora, Smartphone, Teclado",Televendas,1643
+875,2024-03-30,1425.27,"Mouse, Smartphone, Teclado, Fone de Ouvido",Televendas,1369
+876,2024-01-06,538.27,Webcam,App,1852
+877,2025-05-08,4351.03,Fone de Ouvido,Televendas,1518
+878,2024-09-11,3416.14,"Monitor, Webcam, Mouse",Site,1294
+879,2024-05-02,2168.2,"Fone de Ouvido, Webcam",Televendas,1152
+880,2023-07-06,2077.87,"Webcam, Fone de Ouvido, Impressora, Teclado",Site,1477
+881,2025-01-01,2137.97,"Fone de Ouvido, Mouse, Monitor, Teclado, Impressora",Site,1708
+882,2023-12-10,379.02,"Notebook, Smartphone, Monitor",Site,1379
+883,2023-09-15,4512.47,"Monitor, Smartphone, Notebook, Mouse",Loja Física,1744
+884,2023-12-31,1080.36,"Webcam, Teclado, Monitor",App,1051
+885,2025-03-31,3491.96,"Teclado, Smartphone",App,1432
+886,2024-06-25,2847.82,"Monitor, Impressora, Smartphone, Webcam",Loja Física,1252
+887,2024-02-23,3853.83,"Fone de Ouvido, Webcam, Impressora, Mouse, Notebook",App,1202
+888,2024-08-23,933.75,"Notebook, Mouse, Webcam, Monitor, Impressora",Televendas,1559
+889,2024-02-23,652.16,"Mouse, Fone de Ouvido",Loja Física,1142
+890,2023-12-15,3682.89,"Mouse, Smartphone, Impressora, Monitor, Webcam",Loja Física,1396
+891,2024-02-17,2010.58,Monitor,Televendas,1031
+892,2024-04-21,1152.37,"Smartphone, Webcam, Teclado, Mouse, Fone de Ouvido",Televendas,1293
+893,2024-02-06,1778.65,"Webcam, Mouse",Televendas,1215
+894,2025-04-25,3696.86,"Smartphone, Fone de Ouvido, Notebook, Mouse",Site,1377
+895,2024-08-07,870.39,"Smartphone, Webcam, Monitor",App,1259
+896,2024-12-24,4608.4,"Webcam, Smartphone, Monitor",Televendas,1656
+897,2024-11-13,3349.78,"Monitor, Webcam, Impressora, Notebook, Mouse",App,1598
+898,2024-12-13,4966.12,"Webcam, Teclado, Smartphone",Televendas,1614
+899,2024-06-13,4272.62,"Impressora, Teclado",App,1513
+900,2023-12-18,1154.48,"Notebook, Webcam, Impressora, Smartphone",App,1687
+901,2023-09-26,1664.3,Webcam,Televendas,1431
+902,2023-07-04,913.83,"Webcam, Teclado, Fone de Ouvido, Notebook",Site,1917
+903,2023-11-20,2585.34,"Webcam, Monitor",App,1674
+904,2025-01-26,497.65,Mouse,App,1928
+905,2024-02-01,1017.16,"Fone de Ouvido, Smartphone, Notebook, Monitor, Teclado",App,1487
+906,2024-11-20,4825.2,"Fone de Ouvido, Notebook, Monitor, Smartphone, Teclado",Televendas,1281
+907,2024-05-21,3282.97,"Webcam, Notebook, Smartphone, Impressora",App,1857
+908,2024-10-11,1499.72,"Monitor, Webcam, Teclado",App,1529
+909,2025-05-15,3306.0,Mouse,Loja Física,1804
+910,2023-08-17,179.91,"Monitor, Notebook, Teclado, Impressora, Webcam",App,1134
+911,2024-10-09,1731.75,"Mouse, Impressora",App,1920
+912,2024-09-22,4483.16,"Webcam, Mouse, Impressora, Fone de Ouvido",Loja Física,1827
+913,2025-04-29,1574.24,"Mouse, Monitor, Impressora",Loja Física,1604
+914,2025-03-30,96.92,"Notebook, Webcam, Impressora",Loja Física,1867
+915,2024-03-20,105.95,Smartphone,Loja Física,1066
+916,2024-12-09,990.63,"Mouse, Impressora, Webcam",Site,1428
+917,2025-04-19,3089.76,"Webcam, Monitor, Notebook, Teclado, Impressora",Loja Física,1536
+918,2023-12-30,915.92,Notebook,Site,1249
+919,2024-06-28,3371.59,"Fone de Ouvido, Smartphone, Impressora",Loja Física,1751
+920,2023-09-19,2961.91,Smartphone,App,1222
+921,2024-09-13,2186.28,"Mouse, Webcam, Teclado, Smartphone",App,1765
+922,2024-03-06,2831.89,Smartphone,Loja Física,1047
+923,2024-12-28,3811.62,"Notebook, Impressora, Mouse, Webcam",Site,1982
+924,2024-01-26,567.48,"Fone de Ouvido, Mouse",Loja Física,1933
+925,2023-05-27,2640.84,"Fone de Ouvido, Teclado",Loja Física,1565
+926,2024-03-18,3104.42,"Mouse, Monitor, Fone de Ouvido",Televendas,1130
+927,2024-08-12,743.06,"Smartphone, Mouse, Fone de Ouvido, Monitor",App,1667
+928,2023-07-21,3854.57,"Teclado, Monitor, Notebook",Loja Física,1532
+929,2024-09-15,983.28,"Notebook, Monitor, Impressora, Mouse",Loja Física,1876
+930,2025-01-01,240.39,"Fone de Ouvido, Impressora",Loja Física,1182
+931,2023-08-06,2508.94,"Fone de Ouvido, Monitor, Webcam, Notebook",Televendas,1223
+932,2023-07-19,3355.1,Impressora,Televendas,1774
+933,2023-12-01,4286.33,"Smartphone, Impressora, Monitor, Fone de Ouvido, Mouse",Site,1441
+934,2024-10-12,3785.4,"Smartphone, Notebook, Webcam",Televendas,1752
+935,2024-01-05,3751.21,"Teclado, Fone de Ouvido, Impressora, Smartphone, Monitor",Loja Física,1636
+936,2024-03-30,4918.97,"Smartphone, Notebook",Site,1795
+937,2024-05-08,2301.55,"Notebook, Monitor",App,1165
+938,2024-05-06,4681.38,"Teclado, Smartphone",Site,1978
+939,2025-05-04,3108.28,"Smartphone, Teclado, Impressora",App,1611
+940,2024-02-02,3142.49,"Notebook, Smartphone, Teclado, Mouse",App,1337
+941,2023-06-19,2870.01,"Monitor, Fone de Ouvido",App,1392
+942,2025-01-11,2229.63,Mouse,Loja Física,1973
+943,2024-09-23,1867.77,"Mouse, Monitor, Webcam",Loja Física,1832
+944,2024-09-07,2614.67,"Mouse, Impressora, Webcam, Smartphone",Loja Física,1389
+945,2023-07-02,3456.42,"Webcam, Mouse, Smartphone, Impressora, Teclado",Televendas,1895
+946,2024-02-28,3230.19,"Monitor, Mouse, Notebook, Smartphone, Teclado",Televendas,1097
+947,2025-02-14,1198.17,"Impressora, Webcam, Notebook, Monitor, Fone de Ouvido",Loja Física,1720
+948,2024-08-17,2955.64,"Mouse, Teclado",App,1212
+949,2024-11-05,1987.15,"Monitor, Notebook",Site,1386
+950,2023-07-18,1567.05,"Monitor, Notebook",App,1960
+951,2023-06-18,2104.15,Webcam,Site,1680
+952,2024-01-08,2966.34,Webcam,Loja Física,1437
+953,2025-02-26,4987.01,"Teclado, Monitor, Fone de Ouvido, Smartphone, Mouse",Televendas,1758
+954,2024-09-10,1625.12,Fone de Ouvido,Site,1712
+955,2024-10-28,4614.66,"Notebook, Fone de Ouvido, Mouse, Smartphone, Monitor",Site,1110
+956,2023-12-02,1629.98,"Webcam, Mouse, Notebook, Impressora",Site,1784
+957,2024-09-21,2763.77,Fone de Ouvido,Televendas,1200
+958,2024-10-24,429.83,"Impressora, Mouse, Webcam",Loja Física,1589
+959,2025-04-29,4543.02,Fone de Ouvido,Site,1844
+960,2024-08-22,1935.09,Webcam,Televendas,1272
+961,2023-09-28,2848.52,"Smartphone, Mouse, Webcam",Televendas,1515
+962,2024-03-14,397.24,Smartphone,App,1571
+963,2023-10-12,3771.84,"Notebook, Monitor, Mouse, Fone de Ouvido, Smartphone",Televendas,1211
+964,2024-07-29,1519.01,"Webcam, Monitor, Mouse, Impressora, Smartphone",Televendas,1784
+965,2024-02-09,2982.19,Fone de Ouvido,Site,1470
+966,2024-11-23,3133.8,"Mouse, Impressora, Monitor, Fone de Ouvido",Televendas,1133
+967,2025-04-05,663.93,"Fone de Ouvido, Monitor, Mouse, Impressora, Webcam",Site,1711
+968,2023-06-30,1808.54,Monitor,Televendas,1644
+969,2025-04-17,1422.81,"Monitor, Smartphone, Fone de Ouvido, Mouse, Teclado",Televendas,1876
+970,2024-10-21,2686.12,"Mouse, Webcam, Impressora",Site,1210
+971,2023-11-06,3237.21,"Teclado, Notebook, Fone de Ouvido, Impressora",Loja Física,1968
+972,2025-04-14,1123.09,Webcam,App,1226
+973,2023-09-25,2707.04,"Teclado, Notebook",App,1491
+974,2024-10-04,283.92,"Monitor, Smartphone",Loja Física,1518
+975,2023-06-14,868.55,"Teclado, Mouse, Monitor, Webcam",App,1687
+976,2024-11-18,2766.77,"Monitor, Notebook, Fone de Ouvido, Impressora, Mouse",App,1523
+977,2023-08-23,3379.73,Mouse,Televendas,1469
+978,2025-03-26,3551.35,Fone de Ouvido,App,1578
+979,2025-01-02,1879.99,"Mouse, Teclado",Site,1267
+980,2023-12-12,4985.58,"Webcam, Teclado, Fone de Ouvido, Monitor, Notebook",Site,1320
+981,2024-12-27,1760.96,"Webcam, Fone de Ouvido",Site,1317
+982,2025-04-18,1690.39,"Fone de Ouvido, Smartphone, Impressora, Notebook",Televendas,1431
+983,2023-09-25,2893.45,Impressora,Loja Física,1086
+984,2024-06-20,3334.35,"Monitor, Notebook, Impressora",Televendas,1952
+985,2024-03-14,2956.63,"Notebook, Smartphone",Site,1078
+986,2024-02-04,2021.07,"Smartphone, Mouse",App,1154
+987,2023-06-18,1015.53,Webcam,Loja Física,1702
+988,2023-10-01,473.22,"Webcam, Notebook, Smartphone",Televendas,1392
+989,2024-03-09,4692.69,"Teclado, Impressora, Smartphone, Notebook, Webcam",Site,1419
+990,2025-02-06,3723.97,"Impressora, Smartphone, Teclado, Webcam, Fone de Ouvido",Televendas,1047
+991,2023-12-30,3535.05,"Impressora, Notebook, Monitor",App,1103
+992,2023-12-07,1319.12,Mouse,App,1842
+993,2023-09-16,2422.95,"Monitor, Notebook, Smartphone",Televendas,1000
+994,2024-06-03,3269.74,Notebook,App,1617
+995,2025-03-03,1430.59,"Impressora, Fone de Ouvido, Notebook",Loja Física,1086
+996,2023-11-29,1677.34,"Smartphone, Teclado, Monitor",Site,1923
+997,2024-04-18,2418.73,"Smartphone, Webcam, Fone de Ouvido, Notebook",Site,1467
+998,2025-04-24,2534.46,"Teclado, Impressora",Televendas,1893
+999,2023-08-12,1086.65,"Fone de Ouvido, Impressora, Smartphone, Monitor, Webcam",Site,1901
+1000,2025-04-16,4131.64,"Notebook, Mouse, Monitor, Webcam",App,1072

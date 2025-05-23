@@ -1,0 +1,1001 @@
+id_envio,data_envio,canal_envio,tipo_promocao,id_cliente,status_interacao
+1,2024-12-14,SMS,Desconto,1531,Visualizado
+2,2025-05-13,WhatsApp,Frete Grátis,1873,Clicado
+3,2024-10-18,SMS,Cashback,1589,Clicado
+4,2024-04-04,Email,Combo,1863,Ignorado
+5,2024-10-03,Notificação App,Combo,1148,Convertido
+6,2023-07-18,SMS,Combo,1292,Convertido
+7,2024-01-16,WhatsApp,Oferta Relâmpago,1984,Clicado
+8,2025-03-10,Notificação App,Combo,1884,Visualizado
+9,2023-06-24,Notificação App,Oferta Relâmpago,1038,Convertido
+10,2024-10-14,Email,Frete Grátis,1665,Visualizado
+11,2024-05-14,SMS,Oferta Relâmpago,1904,Clicado
+12,2024-03-22,WhatsApp,Cashback,1596,Clicado
+13,2025-03-29,WhatsApp,Combo,1855,Ignorado
+14,2024-09-05,Notificação App,Cashback,1398,Ignorado
+15,2023-12-21,Email,Combo,1582,Convertido
+16,2023-12-04,WhatsApp,Desconto,1390,Clicado
+17,2025-04-21,SMS,Oferta Relâmpago,1986,Clicado
+18,2024-09-14,Notificação App,Oferta Relâmpago,1660,Ignorado
+19,2023-08-21,Notificação App,Oferta Relâmpago,1751,Ignorado
+20,2024-09-23,Notificação App,Desconto,1363,Ignorado
+21,2025-01-17,Email,Cashback,1637,Visualizado
+22,2025-01-31,Notificação App,Desconto,1399,Visualizado
+23,2024-01-30,WhatsApp,Combo,1368,Visualizado
+24,2025-01-05,Email,Cashback,1031,Ignorado
+25,2024-11-23,WhatsApp,Combo,1340,Clicado
+26,2025-04-09,Email,Desconto,1798,Convertido
+27,2024-02-12,Notificação App,Oferta Relâmpago,1977,Convertido
+28,2025-02-13,WhatsApp,Combo,1907,Visualizado
+29,2024-12-15,Notificação App,Desconto,1373,Convertido
+30,2024-08-05,Notificação App,Cashback,1899,Clicado
+31,2024-01-22,Email,Cashback,1027,Clicado
+32,2024-08-07,WhatsApp,Combo,1051,Convertido
+33,2024-01-28,WhatsApp,Cashback,1482,Clicado
+34,2023-08-23,SMS,Combo,1310,Clicado
+35,2025-02-13,Notificação App,Cashback,1356,Visualizado
+36,2024-07-01,Notificação App,Cashback,1584,Ignorado
+37,2025-05-09,Email,Desconto,1542,Visualizado
+38,2024-06-15,Notificação App,Combo,1783,Convertido
+39,2023-08-21,Notificação App,Desconto,1363,Clicado
+40,2024-09-15,SMS,Desconto,1048,Convertido
+41,2024-01-22,Email,Combo,1133,Ignorado
+42,2023-06-16,Email,Combo,1216,Clicado
+43,2024-03-20,SMS,Cashback,1656,Visualizado
+44,2024-09-18,WhatsApp,Desconto,1270,Clicado
+45,2024-07-10,SMS,Frete Grátis,1306,Visualizado
+46,2025-01-08,WhatsApp,Cashback,1154,Convertido
+47,2023-12-17,WhatsApp,Combo,1968,Clicado
+48,2023-07-03,SMS,Combo,1456,Clicado
+49,2023-07-27,SMS,Oferta Relâmpago,1388,Clicado
+50,2024-05-16,SMS,Oferta Relâmpago,1411,Ignorado
+51,2023-06-25,SMS,Oferta Relâmpago,1510,Ignorado
+52,2023-11-13,WhatsApp,Oferta Relâmpago,1326,Clicado
+53,2024-08-10,SMS,Cashback,1501,Clicado
+54,2024-08-19,WhatsApp,Combo,1153,Clicado
+55,2024-03-18,SMS,Combo,1527,Visualizado
+56,2024-05-03,SMS,Cashback,1608,Clicado
+57,2024-03-17,WhatsApp,Desconto,1378,Clicado
+58,2024-08-26,Notificação App,Cashback,1378,Convertido
+59,2023-10-09,Email,Cashback,1487,Clicado
+60,2024-08-28,SMS,Desconto,1311,Ignorado
+61,2023-07-16,Notificação App,Oferta Relâmpago,1289,Clicado
+62,2024-09-11,SMS,Desconto,1621,Convertido
+63,2024-08-28,SMS,Oferta Relâmpago,1123,Ignorado
+64,2024-01-12,WhatsApp,Combo,1938,Clicado
+65,2024-06-15,Email,Oferta Relâmpago,1428,Visualizado
+66,2024-05-23,WhatsApp,Oferta Relâmpago,1738,Clicado
+67,2023-08-05,Notificação App,Desconto,1549,Clicado
+68,2024-02-08,Email,Combo,1052,Convertido
+69,2023-07-20,SMS,Cashback,1804,Ignorado
+70,2023-11-27,Email,Desconto,1883,Ignorado
+71,2024-06-06,Notificação App,Oferta Relâmpago,1425,Visualizado
+72,2023-08-17,WhatsApp,Combo,1739,Clicado
+73,2025-03-17,Email,Oferta Relâmpago,1188,Clicado
+74,2023-12-25,Email,Combo,1899,Convertido
+75,2024-10-21,WhatsApp,Frete Grátis,1976,Visualizado
+76,2024-06-02,WhatsApp,Combo,1037,Convertido
+77,2025-01-07,Email,Combo,1149,Clicado
+78,2023-10-04,WhatsApp,Oferta Relâmpago,1127,Clicado
+79,2024-02-21,Notificação App,Cashback,1534,Clicado
+80,2024-12-25,SMS,Oferta Relâmpago,1323,Convertido
+81,2024-03-23,Notificação App,Desconto,1386,Convertido
+82,2024-11-23,Email,Oferta Relâmpago,1461,Visualizado
+83,2023-12-11,Email,Desconto,1014,Clicado
+84,2023-06-05,SMS,Oferta Relâmpago,1088,Clicado
+85,2024-10-11,SMS,Desconto,1503,Clicado
+86,2024-08-16,Notificação App,Frete Grátis,1042,Visualizado
+87,2024-07-16,SMS,Cashback,1919,Clicado
+88,2023-08-22,SMS,Cashback,1653,Convertido
+89,2024-01-18,Notificação App,Desconto,1742,Visualizado
+90,2023-06-15,Notificação App,Desconto,1818,Clicado
+91,2023-08-01,Notificação App,Oferta Relâmpago,1888,Ignorado
+92,2023-09-11,SMS,Oferta Relâmpago,1666,Convertido
+93,2025-03-25,WhatsApp,Combo,1574,Visualizado
+94,2023-05-28,SMS,Cashback,1075,Visualizado
+95,2024-01-29,Notificação App,Combo,1655,Ignorado
+96,2024-10-09,SMS,Oferta Relâmpago,1466,Clicado
+97,2023-09-19,Email,Desconto,1917,Clicado
+98,2024-08-22,Email,Desconto,1162,Clicado
+99,2025-04-13,Notificação App,Cashback,1360,Clicado
+100,2024-11-26,WhatsApp,Oferta Relâmpago,1578,Ignorado
+101,2025-03-20,WhatsApp,Oferta Relâmpago,1571,Convertido
+102,2023-08-17,Notificação App,Combo,1417,Ignorado
+103,2024-11-23,Email,Frete Grátis,1753,Clicado
+104,2024-03-10,SMS,Cashback,1039,Convertido
+105,2024-02-27,SMS,Oferta Relâmpago,1873,Ignorado
+106,2023-09-01,SMS,Oferta Relâmpago,1683,Convertido
+107,2024-08-20,SMS,Desconto,1937,Ignorado
+108,2024-07-22,Notificação App,Desconto,1528,Ignorado
+109,2024-02-03,Email,Cashback,1832,Ignorado
+110,2024-01-04,Email,Frete Grátis,1975,Convertido
+111,2025-04-29,Email,Oferta Relâmpago,1543,Clicado
+112,2024-09-10,WhatsApp,Combo,1346,Visualizado
+113,2024-06-22,SMS,Combo,1519,Ignorado
+114,2023-08-16,WhatsApp,Frete Grátis,1397,Ignorado
+115,2025-03-10,WhatsApp,Combo,1492,Convertido
+116,2025-01-03,SMS,Cashback,1651,Ignorado
+117,2023-11-28,Notificação App,Cashback,1152,Visualizado
+118,2023-10-29,Email,Desconto,1689,Convertido
+119,2025-04-01,WhatsApp,Combo,1045,Visualizado
+120,2024-02-20,WhatsApp,Frete Grátis,1784,Convertido
+121,2024-07-19,Notificação App,Combo,1234,Convertido
+122,2025-03-02,SMS,Frete Grátis,1125,Clicado
+123,2025-01-02,SMS,Desconto,1140,Clicado
+124,2023-08-17,Notificação App,Desconto,1093,Clicado
+125,2024-12-01,Notificação App,Combo,1586,Visualizado
+126,2023-10-28,Notificação App,Oferta Relâmpago,1247,Ignorado
+127,2024-01-17,Email,Frete Grátis,1587,Convertido
+128,2024-01-12,WhatsApp,Frete Grátis,1332,Visualizado
+129,2024-01-07,Email,Desconto,1023,Ignorado
+130,2024-06-25,SMS,Oferta Relâmpago,1578,Visualizado
+131,2025-02-04,Notificação App,Desconto,1024,Ignorado
+132,2023-07-22,SMS,Combo,1236,Ignorado
+133,2023-08-17,Notificação App,Frete Grátis,1564,Visualizado
+134,2024-09-23,Notificação App,Combo,1684,Ignorado
+135,2025-03-17,WhatsApp,Cashback,1276,Visualizado
+136,2024-03-18,Email,Cashback,1421,Visualizado
+137,2025-03-11,Email,Combo,1766,Ignorado
+138,2023-11-01,WhatsApp,Oferta Relâmpago,1076,Convertido
+139,2024-04-24,Notificação App,Desconto,1474,Clicado
+140,2024-08-03,Email,Frete Grátis,1157,Ignorado
+141,2024-03-24,SMS,Combo,1429,Convertido
+142,2023-12-09,Email,Desconto,1684,Clicado
+143,2023-12-05,Notificação App,Cashback,1783,Clicado
+144,2023-11-15,Notificação App,Desconto,1022,Convertido
+145,2024-10-03,Notificação App,Frete Grátis,1696,Convertido
+146,2024-11-05,Notificação App,Frete Grátis,1182,Convertido
+147,2024-05-31,WhatsApp,Oferta Relâmpago,1209,Visualizado
+148,2023-05-28,WhatsApp,Oferta Relâmpago,1572,Visualizado
+149,2025-04-06,Notificação App,Desconto,1648,Convertido
+150,2023-07-07,SMS,Combo,1015,Ignorado
+151,2023-11-06,Notificação App,Combo,1829,Ignorado
+152,2024-12-26,SMS,Combo,1998,Convertido
+153,2023-11-30,WhatsApp,Cashback,1029,Visualizado
+154,2024-05-19,Notificação App,Oferta Relâmpago,1070,Convertido
+155,2024-02-13,SMS,Desconto,1691,Ignorado
+156,2023-12-07,SMS,Cashback,1573,Visualizado
+157,2023-11-17,SMS,Oferta Relâmpago,1378,Ignorado
+158,2023-05-24,SMS,Frete Grátis,1803,Convertido
+159,2023-05-26,WhatsApp,Desconto,1753,Visualizado
+160,2023-11-03,WhatsApp,Combo,1463,Ignorado
+161,2024-05-14,SMS,Frete Grátis,1348,Clicado
+162,2024-07-03,Notificação App,Combo,1971,Ignorado
+163,2024-12-14,SMS,Oferta Relâmpago,1386,Convertido
+164,2024-10-18,Email,Combo,1166,Ignorado
+165,2023-11-08,Email,Combo,1600,Clicado
+166,2024-04-06,Email,Cashback,1972,Visualizado
+167,2024-10-16,Email,Frete Grátis,1652,Clicado
+168,2024-12-29,Notificação App,Combo,1188,Clicado
+169,2024-04-29,WhatsApp,Oferta Relâmpago,1737,Convertido
+170,2023-06-12,WhatsApp,Oferta Relâmpago,1209,Convertido
+171,2024-09-24,SMS,Desconto,1454,Clicado
+172,2024-12-16,SMS,Desconto,1369,Convertido
+173,2024-10-14,WhatsApp,Cashback,1691,Ignorado
+174,2023-10-05,Notificação App,Oferta Relâmpago,1769,Clicado
+175,2023-11-24,SMS,Oferta Relâmpago,1096,Ignorado
+176,2024-02-28,Email,Combo,1290,Convertido
+177,2024-02-29,Email,Frete Grátis,1688,Ignorado
+178,2023-09-02,Notificação App,Cashback,1142,Clicado
+179,2024-01-08,Email,Cashback,1266,Clicado
+180,2023-06-12,Notificação App,Oferta Relâmpago,1869,Ignorado
+181,2025-04-23,WhatsApp,Desconto,1930,Ignorado
+182,2023-12-10,SMS,Frete Grátis,1828,Visualizado
+183,2024-10-29,Notificação App,Oferta Relâmpago,1270,Convertido
+184,2025-03-24,SMS,Cashback,1282,Visualizado
+185,2024-03-30,WhatsApp,Desconto,1154,Convertido
+186,2025-02-14,SMS,Cashback,1672,Convertido
+187,2024-04-23,Email,Combo,1413,Clicado
+188,2023-11-01,Notificação App,Frete Grátis,1018,Ignorado
+189,2024-12-06,SMS,Frete Grátis,1908,Clicado
+190,2024-03-08,SMS,Desconto,1545,Convertido
+191,2023-11-14,Notificação App,Frete Grátis,1592,Ignorado
+192,2025-03-26,SMS,Combo,1103,Clicado
+193,2024-09-15,Notificação App,Combo,1378,Visualizado
+194,2024-02-01,Email,Combo,1265,Visualizado
+195,2023-06-05,WhatsApp,Frete Grátis,1609,Convertido
+196,2024-08-08,Email,Frete Grátis,1997,Visualizado
+197,2023-10-21,Notificação App,Cashback,1438,Clicado
+198,2023-09-01,Notificação App,Combo,1723,Ignorado
+199,2024-10-13,SMS,Combo,1744,Convertido
+200,2024-04-18,SMS,Desconto,1866,Visualizado
+201,2024-09-14,Notificação App,Combo,1749,Convertido
+202,2024-06-23,Email,Desconto,1244,Ignorado
+203,2024-02-02,WhatsApp,Frete Grátis,1353,Ignorado
+204,2025-01-15,SMS,Cashback,1039,Visualizado
+205,2024-07-24,Notificação App,Oferta Relâmpago,1556,Convertido
+206,2024-03-21,Email,Desconto,1576,Ignorado
+207,2025-05-14,Notificação App,Cashback,1447,Visualizado
+208,2024-06-14,Notificação App,Combo,1208,Visualizado
+209,2025-04-03,Email,Combo,1188,Clicado
+210,2025-02-15,Notificação App,Desconto,1329,Convertido
+211,2023-07-02,Email,Oferta Relâmpago,1945,Clicado
+212,2024-04-14,Notificação App,Frete Grátis,1305,Clicado
+213,2024-11-05,WhatsApp,Combo,1583,Ignorado
+214,2024-03-02,Notificação App,Combo,1698,Clicado
+215,2025-03-13,Notificação App,Cashback,1376,Convertido
+216,2024-10-18,WhatsApp,Oferta Relâmpago,1464,Visualizado
+217,2025-05-15,WhatsApp,Combo,1314,Clicado
+218,2023-10-27,SMS,Combo,1510,Convertido
+219,2023-11-30,Email,Desconto,1897,Visualizado
+220,2024-09-18,WhatsApp,Cashback,1602,Ignorado
+221,2024-04-19,WhatsApp,Combo,1258,Convertido
+222,2025-05-09,SMS,Combo,1911,Ignorado
+223,2025-03-03,Notificação App,Oferta Relâmpago,1713,Convertido
+224,2024-08-11,WhatsApp,Frete Grátis,1920,Ignorado
+225,2023-12-25,Email,Frete Grátis,1754,Ignorado
+226,2024-06-28,WhatsApp,Cashback,1673,Ignorado
+227,2024-01-06,Email,Oferta Relâmpago,1602,Convertido
+228,2023-11-21,WhatsApp,Frete Grátis,1122,Ignorado
+229,2024-12-26,Notificação App,Frete Grátis,1984,Visualizado
+230,2023-09-22,Notificação App,Oferta Relâmpago,1136,Clicado
+231,2023-09-10,Notificação App,Frete Grátis,1091,Convertido
+232,2023-06-30,WhatsApp,Frete Grátis,1048,Visualizado
+233,2025-04-28,Notificação App,Oferta Relâmpago,1017,Clicado
+234,2025-04-29,SMS,Oferta Relâmpago,1286,Convertido
+235,2024-10-23,Notificação App,Cashback,1538,Clicado
+236,2024-12-08,SMS,Combo,1051,Convertido
+237,2023-10-29,Notificação App,Desconto,1224,Clicado
+238,2024-06-28,WhatsApp,Oferta Relâmpago,1088,Visualizado
+239,2025-01-22,Email,Oferta Relâmpago,1120,Convertido
+240,2024-05-26,SMS,Oferta Relâmpago,1262,Convertido
+241,2024-08-15,Notificação App,Cashback,1724,Visualizado
+242,2023-08-22,SMS,Desconto,1797,Visualizado
+243,2024-09-04,SMS,Combo,1618,Visualizado
+244,2024-05-26,WhatsApp,Desconto,1046,Visualizado
+245,2023-11-17,Notificação App,Desconto,1941,Clicado
+246,2024-02-03,Notificação App,Frete Grátis,1357,Convertido
+247,2024-01-09,SMS,Desconto,1624,Ignorado
+248,2024-09-10,Email,Cashback,1378,Visualizado
+249,2024-01-31,SMS,Cashback,1676,Visualizado
+250,2024-09-02,Email,Desconto,1616,Ignorado
+251,2023-08-25,WhatsApp,Cashback,1456,Ignorado
+252,2024-08-29,Email,Combo,1695,Clicado
+253,2024-01-31,WhatsApp,Desconto,1316,Visualizado
+254,2024-10-19,SMS,Oferta Relâmpago,1108,Visualizado
+255,2025-03-07,Notificação App,Cashback,1209,Ignorado
+256,2024-12-18,SMS,Combo,1270,Convertido
+257,2024-03-30,SMS,Desconto,1795,Visualizado
+258,2024-12-13,WhatsApp,Combo,1455,Visualizado
+259,2024-02-14,Notificação App,Oferta Relâmpago,1374,Ignorado
+260,2025-01-29,SMS,Frete Grátis,1332,Ignorado
+261,2024-05-15,Notificação App,Desconto,1205,Clicado
+262,2023-10-11,Email,Frete Grátis,1248,Ignorado
+263,2024-03-11,SMS,Desconto,1390,Visualizado
+264,2025-01-28,SMS,Oferta Relâmpago,1752,Convertido
+265,2024-05-24,WhatsApp,Frete Grátis,1904,Visualizado
+266,2023-12-27,SMS,Desconto,1385,Clicado
+267,2023-10-29,Email,Frete Grátis,1435,Visualizado
+268,2024-02-25,Email,Frete Grátis,1927,Visualizado
+269,2024-06-12,WhatsApp,Cashback,1913,Ignorado
+270,2023-12-26,SMS,Cashback,1547,Clicado
+271,2025-04-23,SMS,Combo,1810,Clicado
+272,2024-08-27,SMS,Combo,1173,Visualizado
+273,2023-12-03,Notificação App,Cashback,1332,Visualizado
+274,2025-03-12,Email,Desconto,1031,Convertido
+275,2025-04-28,Email,Combo,1529,Clicado
+276,2024-10-01,Notificação App,Frete Grátis,1526,Clicado
+277,2025-04-16,SMS,Desconto,1067,Ignorado
+278,2024-01-31,WhatsApp,Oferta Relâmpago,1174,Visualizado
+279,2025-05-10,Email,Desconto,1005,Ignorado
+280,2025-05-07,SMS,Combo,1265,Visualizado
+281,2023-05-26,Email,Desconto,1194,Visualizado
+282,2023-07-14,SMS,Frete Grátis,1668,Clicado
+283,2024-05-08,Email,Oferta Relâmpago,1572,Ignorado
+284,2023-10-14,Email,Oferta Relâmpago,1673,Visualizado
+285,2023-07-31,SMS,Cashback,1497,Clicado
+286,2024-08-03,WhatsApp,Cashback,1253,Ignorado
+287,2024-01-11,Email,Combo,1673,Ignorado
+288,2024-07-18,SMS,Oferta Relâmpago,1653,Ignorado
+289,2023-08-14,Email,Frete Grátis,1822,Clicado
+290,2025-01-06,Notificação App,Oferta Relâmpago,1805,Clicado
+291,2023-05-25,SMS,Frete Grátis,1738,Clicado
+292,2023-11-01,SMS,Desconto,1464,Clicado
+293,2025-05-09,Notificação App,Oferta Relâmpago,1974,Clicado
+294,2024-10-07,Email,Combo,1650,Convertido
+295,2023-09-16,Notificação App,Combo,1430,Convertido
+296,2024-09-18,Notificação App,Desconto,1768,Convertido
+297,2025-05-08,SMS,Combo,1778,Ignorado
+298,2024-07-05,SMS,Oferta Relâmpago,1286,Convertido
+299,2023-11-05,SMS,Frete Grátis,1653,Convertido
+300,2024-03-12,SMS,Desconto,1232,Clicado
+301,2023-08-03,Notificação App,Frete Grátis,1613,Ignorado
+302,2023-07-31,Email,Combo,1512,Ignorado
+303,2024-12-17,Email,Frete Grátis,1872,Ignorado
+304,2023-06-16,WhatsApp,Frete Grátis,1511,Visualizado
+305,2024-12-19,SMS,Desconto,1166,Ignorado
+306,2024-09-02,Notificação App,Oferta Relâmpago,1755,Convertido
+307,2024-11-09,WhatsApp,Combo,1684,Ignorado
+308,2025-01-09,WhatsApp,Combo,1075,Visualizado
+309,2024-01-28,Email,Oferta Relâmpago,1388,Convertido
+310,2025-04-21,WhatsApp,Frete Grátis,1893,Convertido
+311,2025-02-06,WhatsApp,Desconto,1092,Visualizado
+312,2024-04-07,Notificação App,Desconto,1892,Ignorado
+313,2024-05-11,WhatsApp,Cashback,1281,Visualizado
+314,2024-03-14,WhatsApp,Cashback,1263,Convertido
+315,2024-07-03,WhatsApp,Oferta Relâmpago,1867,Visualizado
+316,2025-01-23,WhatsApp,Cashback,1163,Convertido
+317,2025-04-06,Email,Cashback,1207,Ignorado
+318,2024-11-15,WhatsApp,Desconto,1830,Clicado
+319,2024-08-13,SMS,Cashback,1826,Clicado
+320,2023-11-01,SMS,Frete Grátis,1850,Clicado
+321,2024-09-29,WhatsApp,Cashback,1911,Clicado
+322,2025-02-25,WhatsApp,Frete Grátis,1042,Clicado
+323,2024-10-10,Email,Desconto,1003,Visualizado
+324,2023-09-17,Email,Cashback,1171,Visualizado
+325,2025-01-15,Notificação App,Cashback,1236,Ignorado
+326,2025-04-22,Email,Frete Grátis,1018,Ignorado
+327,2023-07-26,WhatsApp,Cashback,1400,Convertido
+328,2024-04-20,Email,Desconto,1290,Visualizado
+329,2024-05-19,SMS,Desconto,1598,Visualizado
+330,2024-07-26,Notificação App,Frete Grátis,1428,Convertido
+331,2023-08-15,Notificação App,Oferta Relâmpago,1974,Visualizado
+332,2024-07-03,SMS,Frete Grátis,1762,Visualizado
+333,2025-04-16,Notificação App,Desconto,1501,Clicado
+334,2025-01-21,SMS,Oferta Relâmpago,1785,Clicado
+335,2024-02-18,WhatsApp,Cashback,1882,Convertido
+336,2024-02-08,WhatsApp,Combo,1992,Visualizado
+337,2024-12-08,SMS,Cashback,1914,Clicado
+338,2024-01-23,WhatsApp,Combo,1471,Convertido
+339,2024-10-18,SMS,Frete Grátis,1540,Ignorado
+340,2023-09-12,Notificação App,Oferta Relâmpago,1473,Visualizado
+341,2024-10-09,WhatsApp,Oferta Relâmpago,1917,Convertido
+342,2023-10-16,Email,Desconto,1807,Convertido
+343,2023-12-30,SMS,Frete Grátis,1967,Convertido
+344,2024-08-19,Notificação App,Combo,1899,Visualizado
+345,2025-01-22,WhatsApp,Cashback,1566,Ignorado
+346,2024-06-13,WhatsApp,Desconto,1365,Ignorado
+347,2023-08-28,SMS,Combo,1741,Visualizado
+348,2025-02-03,Email,Cashback,1568,Visualizado
+349,2023-07-01,WhatsApp,Cashback,1384,Convertido
+350,2025-02-16,SMS,Combo,1737,Convertido
+351,2023-07-14,Email,Oferta Relâmpago,1620,Ignorado
+352,2024-06-25,Email,Desconto,1586,Ignorado
+353,2024-01-06,WhatsApp,Desconto,1702,Convertido
+354,2024-06-06,SMS,Oferta Relâmpago,1321,Clicado
+355,2024-05-04,Notificação App,Combo,1886,Clicado
+356,2025-03-26,Email,Desconto,1133,Clicado
+357,2023-10-04,SMS,Combo,1550,Convertido
+358,2025-02-04,Email,Combo,1622,Visualizado
+359,2025-03-22,Notificação App,Desconto,1416,Clicado
+360,2024-05-24,WhatsApp,Cashback,1903,Visualizado
+361,2025-02-02,WhatsApp,Cashback,1214,Ignorado
+362,2024-07-30,WhatsApp,Cashback,1282,Clicado
+363,2024-02-05,WhatsApp,Cashback,1978,Visualizado
+364,2023-06-17,Notificação App,Combo,1701,Ignorado
+365,2024-07-06,Email,Cashback,1502,Convertido
+366,2024-07-29,Notificação App,Oferta Relâmpago,1181,Clicado
+367,2023-09-28,WhatsApp,Frete Grátis,1368,Clicado
+368,2024-03-19,WhatsApp,Desconto,1570,Convertido
+369,2025-01-08,Notificação App,Frete Grátis,1861,Visualizado
+370,2023-11-02,SMS,Cashback,1936,Ignorado
+371,2024-09-01,WhatsApp,Cashback,1468,Ignorado
+372,2024-12-31,WhatsApp,Frete Grátis,1161,Visualizado
+373,2025-02-23,Email,Desconto,1248,Visualizado
+374,2023-05-30,Email,Frete Grátis,1155,Ignorado
+375,2025-04-07,Notificação App,Desconto,1275,Convertido
+376,2024-09-23,SMS,Frete Grátis,1143,Ignorado
+377,2023-06-18,WhatsApp,Cashback,1722,Visualizado
+378,2024-01-02,Notificação App,Combo,1320,Convertido
+379,2024-12-16,WhatsApp,Cashback,1750,Convertido
+380,2024-02-13,Email,Oferta Relâmpago,1569,Visualizado
+381,2024-03-28,WhatsApp,Oferta Relâmpago,1571,Visualizado
+382,2024-11-28,SMS,Oferta Relâmpago,1952,Ignorado
+383,2024-06-15,WhatsApp,Combo,1150,Clicado
+384,2024-08-21,Email,Cashback,1694,Ignorado
+385,2024-10-12,SMS,Desconto,1362,Convertido
+386,2024-10-31,WhatsApp,Oferta Relâmpago,1115,Convertido
+387,2025-05-14,SMS,Desconto,1790,Clicado
+388,2023-10-17,Email,Combo,1562,Ignorado
+389,2024-01-04,Email,Frete Grátis,1617,Ignorado
+390,2024-08-28,SMS,Cashback,1314,Visualizado
+391,2025-04-27,SMS,Cashback,1714,Ignorado
+392,2023-10-01,Email,Cashback,1693,Clicado
+393,2023-09-08,Notificação App,Frete Grátis,1388,Ignorado
+394,2024-03-21,Notificação App,Desconto,1873,Ignorado
+395,2023-06-01,WhatsApp,Desconto,1525,Convertido
+396,2024-04-23,SMS,Frete Grátis,1708,Ignorado
+397,2024-12-25,WhatsApp,Combo,1542,Ignorado
+398,2023-12-18,Notificação App,Oferta Relâmpago,1343,Convertido
+399,2023-08-19,WhatsApp,Desconto,1629,Ignorado
+400,2024-12-23,Notificação App,Desconto,1796,Convertido
+401,2024-06-27,SMS,Cashback,1593,Convertido
+402,2024-08-26,Notificação App,Desconto,1294,Clicado
+403,2024-06-07,Email,Frete Grátis,1933,Clicado
+404,2023-09-29,Notificação App,Combo,1636,Ignorado
+405,2023-06-12,WhatsApp,Combo,1152,Visualizado
+406,2023-09-12,WhatsApp,Frete Grátis,1848,Ignorado
+407,2023-11-07,Notificação App,Oferta Relâmpago,1403,Clicado
+408,2025-01-20,Notificação App,Oferta Relâmpago,1438,Visualizado
+409,2024-06-03,SMS,Combo,1964,Visualizado
+410,2024-12-27,SMS,Frete Grátis,1578,Ignorado
+411,2025-04-06,Notificação App,Desconto,1738,Clicado
+412,2025-03-26,Email,Desconto,1852,Ignorado
+413,2024-01-08,SMS,Desconto,1965,Visualizado
+414,2023-07-08,SMS,Oferta Relâmpago,1994,Convertido
+415,2024-11-18,SMS,Cashback,1938,Ignorado
+416,2023-12-14,Email,Oferta Relâmpago,1586,Ignorado
+417,2025-04-02,WhatsApp,Cashback,1255,Convertido
+418,2025-03-28,SMS,Desconto,1009,Visualizado
+419,2023-07-01,SMS,Frete Grátis,1174,Ignorado
+420,2025-01-17,Email,Cashback,1777,Clicado
+421,2023-11-05,WhatsApp,Frete Grátis,1823,Ignorado
+422,2023-10-27,SMS,Desconto,1134,Convertido
+423,2024-01-20,WhatsApp,Oferta Relâmpago,1151,Clicado
+424,2025-05-17,Email,Frete Grátis,1404,Clicado
+425,2024-07-22,Email,Frete Grátis,1580,Convertido
+426,2023-12-01,SMS,Oferta Relâmpago,1049,Convertido
+427,2025-05-20,WhatsApp,Combo,1229,Ignorado
+428,2024-09-01,SMS,Desconto,1049,Ignorado
+429,2023-08-14,WhatsApp,Cashback,1931,Convertido
+430,2023-08-09,WhatsApp,Cashback,1453,Convertido
+431,2023-09-07,Notificação App,Desconto,1240,Ignorado
+432,2023-06-12,WhatsApp,Combo,1229,Convertido
+433,2025-01-21,Email,Frete Grátis,1974,Convertido
+434,2024-03-21,Email,Frete Grátis,1324,Convertido
+435,2024-01-24,SMS,Frete Grátis,1672,Ignorado
+436,2023-07-27,Email,Combo,1150,Clicado
+437,2024-07-25,WhatsApp,Desconto,1708,Ignorado
+438,2025-04-26,Notificação App,Cashback,1144,Visualizado
+439,2023-06-19,SMS,Desconto,1380,Visualizado
+440,2024-12-23,Notificação App,Combo,1835,Clicado
+441,2023-06-07,Notificação App,Desconto,1979,Visualizado
+442,2025-04-21,Email,Combo,1245,Clicado
+443,2024-09-25,Email,Combo,1248,Visualizado
+444,2024-01-31,Email,Frete Grátis,1846,Visualizado
+445,2024-10-10,Email,Desconto,1437,Visualizado
+446,2023-09-28,Notificação App,Cashback,1122,Clicado
+447,2024-04-02,SMS,Frete Grátis,1644,Clicado
+448,2024-04-10,Email,Desconto,1354,Clicado
+449,2024-01-29,Email,Oferta Relâmpago,1116,Clicado
+450,2024-03-25,SMS,Frete Grátis,1746,Ignorado
+451,2025-04-11,SMS,Oferta Relâmpago,1154,Visualizado
+452,2025-03-16,WhatsApp,Combo,1291,Visualizado
+453,2024-08-16,Notificação App,Desconto,1191,Visualizado
+454,2024-01-06,SMS,Combo,1436,Convertido
+455,2024-06-28,WhatsApp,Cashback,1337,Visualizado
+456,2023-11-14,SMS,Combo,1356,Clicado
+457,2023-09-20,Email,Cashback,1517,Clicado
+458,2023-08-09,Notificação App,Combo,1262,Clicado
+459,2025-02-14,WhatsApp,Combo,1039,Clicado
+460,2023-09-23,SMS,Oferta Relâmpago,1665,Visualizado
+461,2024-10-29,WhatsApp,Combo,1132,Ignorado
+462,2024-11-01,Email,Cashback,1078,Visualizado
+463,2024-04-03,SMS,Combo,1492,Visualizado
+464,2023-06-16,SMS,Oferta Relâmpago,1142,Convertido
+465,2025-02-19,Notificação App,Cashback,1152,Ignorado
+466,2025-02-10,Email,Desconto,1160,Ignorado
+467,2023-12-26,SMS,Frete Grátis,1980,Convertido
+468,2024-07-02,SMS,Frete Grátis,1732,Ignorado
+469,2024-12-06,Notificação App,Frete Grátis,1202,Ignorado
+470,2023-06-16,SMS,Oferta Relâmpago,1635,Visualizado
+471,2024-06-10,SMS,Frete Grátis,1986,Convertido
+472,2024-12-12,Email,Cashback,1722,Visualizado
+473,2023-12-09,Email,Oferta Relâmpago,1119,Clicado
+474,2025-03-01,Email,Oferta Relâmpago,1715,Visualizado
+475,2024-04-27,WhatsApp,Frete Grátis,1806,Convertido
+476,2024-02-27,WhatsApp,Combo,1774,Clicado
+477,2023-10-19,Email,Combo,1502,Visualizado
+478,2025-02-03,Notificação App,Combo,1155,Clicado
+479,2024-03-12,SMS,Combo,1021,Visualizado
+480,2023-08-12,SMS,Cashback,1122,Visualizado
+481,2023-07-24,Email,Cashback,1573,Ignorado
+482,2024-05-30,Email,Combo,1138,Ignorado
+483,2024-02-12,SMS,Frete Grátis,1018,Convertido
+484,2024-04-09,Notificação App,Frete Grátis,1629,Convertido
+485,2023-10-09,WhatsApp,Frete Grátis,1375,Clicado
+486,2024-09-25,SMS,Oferta Relâmpago,1596,Convertido
+487,2023-05-30,SMS,Combo,1431,Clicado
+488,2023-07-29,Notificação App,Desconto,1471,Ignorado
+489,2025-04-23,Notificação App,Desconto,1141,Ignorado
+490,2024-09-22,WhatsApp,Desconto,1799,Clicado
+491,2024-03-27,WhatsApp,Combo,1454,Ignorado
+492,2024-06-13,Email,Combo,1530,Convertido
+493,2024-07-09,WhatsApp,Frete Grátis,1959,Visualizado
+494,2025-05-15,SMS,Frete Grátis,1659,Convertido
+495,2024-12-18,WhatsApp,Cashback,1743,Clicado
+496,2023-05-25,Notificação App,Frete Grátis,1287,Convertido
+497,2025-02-06,Notificação App,Oferta Relâmpago,1306,Visualizado
+498,2023-08-26,WhatsApp,Desconto,1905,Ignorado
+499,2024-09-23,Notificação App,Cashback,1958,Clicado
+500,2025-03-02,SMS,Combo,1268,Convertido
+501,2023-12-19,SMS,Desconto,1583,Visualizado
+502,2024-01-26,WhatsApp,Oferta Relâmpago,1724,Ignorado
+503,2024-02-28,SMS,Oferta Relâmpago,1607,Convertido
+504,2023-11-22,SMS,Cashback,1320,Convertido
+505,2023-10-19,SMS,Cashback,1438,Clicado
+506,2024-02-16,WhatsApp,Frete Grátis,1216,Clicado
+507,2023-10-08,SMS,Combo,1473,Ignorado
+508,2024-08-25,SMS,Combo,1382,Visualizado
+509,2023-09-10,Notificação App,Frete Grátis,1293,Ignorado
+510,2023-08-13,Notificação App,Oferta Relâmpago,1760,Visualizado
+511,2024-10-15,SMS,Desconto,1277,Clicado
+512,2023-12-25,Email,Frete Grátis,1862,Ignorado
+513,2023-12-27,Notificação App,Cashback,1338,Ignorado
+514,2025-04-16,SMS,Desconto,1740,Clicado
+515,2024-01-26,Notificação App,Combo,1694,Clicado
+516,2024-09-02,WhatsApp,Cashback,1534,Ignorado
+517,2025-02-19,Email,Oferta Relâmpago,1638,Clicado
+518,2024-01-28,Email,Oferta Relâmpago,1116,Ignorado
+519,2023-11-13,Email,Cashback,1934,Visualizado
+520,2024-10-22,WhatsApp,Cashback,1793,Ignorado
+521,2025-04-26,WhatsApp,Combo,1663,Visualizado
+522,2023-09-23,Notificação App,Oferta Relâmpago,1203,Convertido
+523,2024-12-16,Email,Desconto,1164,Ignorado
+524,2024-06-28,SMS,Frete Grátis,1846,Clicado
+525,2024-06-23,Notificação App,Frete Grátis,1631,Ignorado
+526,2023-08-01,WhatsApp,Cashback,1559,Ignorado
+527,2025-05-01,SMS,Cashback,1880,Clicado
+528,2023-08-21,SMS,Combo,1908,Visualizado
+529,2024-05-25,Email,Frete Grátis,1269,Clicado
+530,2024-09-19,Email,Frete Grátis,1584,Clicado
+531,2024-08-27,Notificação App,Oferta Relâmpago,1591,Clicado
+532,2023-08-04,Notificação App,Combo,1763,Clicado
+533,2024-04-30,Email,Combo,1573,Visualizado
+534,2023-06-01,Email,Desconto,1531,Ignorado
+535,2023-12-24,Email,Oferta Relâmpago,1898,Convertido
+536,2024-07-19,WhatsApp,Oferta Relâmpago,1944,Visualizado
+537,2024-07-12,SMS,Desconto,1668,Visualizado
+538,2023-08-09,Notificação App,Cashback,1491,Convertido
+539,2023-06-30,Notificação App,Desconto,1888,Ignorado
+540,2025-05-01,Notificação App,Cashback,1174,Convertido
+541,2023-10-24,WhatsApp,Desconto,1486,Convertido
+542,2025-01-01,Notificação App,Cashback,1189,Ignorado
+543,2025-01-15,WhatsApp,Frete Grátis,1087,Convertido
+544,2023-07-13,SMS,Desconto,1871,Convertido
+545,2024-09-06,SMS,Combo,1043,Convertido
+546,2024-12-13,SMS,Frete Grátis,1255,Visualizado
+547,2023-09-08,WhatsApp,Oferta Relâmpago,1356,Convertido
+548,2024-12-05,Email,Cashback,1747,Convertido
+549,2023-09-03,SMS,Frete Grátis,1839,Visualizado
+550,2023-12-14,WhatsApp,Cashback,1233,Convertido
+551,2025-05-03,SMS,Desconto,1063,Visualizado
+552,2024-10-31,WhatsApp,Cashback,1414,Visualizado
+553,2024-01-13,Notificação App,Oferta Relâmpago,1143,Convertido
+554,2025-02-12,WhatsApp,Cashback,1519,Ignorado
+555,2023-07-18,SMS,Cashback,1245,Visualizado
+556,2024-06-01,Email,Combo,1194,Clicado
+557,2025-01-27,Email,Frete Grátis,1825,Visualizado
+558,2024-02-08,Email,Cashback,1958,Convertido
+559,2024-08-11,SMS,Cashback,1450,Convertido
+560,2023-06-12,WhatsApp,Cashback,1811,Visualizado
+561,2024-06-26,SMS,Desconto,1063,Clicado
+562,2024-04-10,WhatsApp,Frete Grátis,1268,Clicado
+563,2024-01-18,SMS,Combo,1303,Ignorado
+564,2024-01-03,WhatsApp,Oferta Relâmpago,1694,Clicado
+565,2024-07-10,SMS,Combo,1532,Clicado
+566,2024-07-15,SMS,Combo,1923,Clicado
+567,2023-08-21,Email,Frete Grátis,1857,Convertido
+568,2024-09-10,Notificação App,Cashback,1913,Convertido
+569,2024-07-02,Email,Combo,1055,Clicado
+570,2023-07-24,Email,Oferta Relâmpago,1416,Clicado
+571,2024-03-29,Notificação App,Combo,1213,Ignorado
+572,2024-11-07,SMS,Oferta Relâmpago,1218,Ignorado
+573,2024-01-28,Email,Cashback,1245,Clicado
+574,2025-02-10,Email,Frete Grátis,1699,Ignorado
+575,2023-11-16,SMS,Frete Grátis,1330,Ignorado
+576,2023-11-03,Notificação App,Frete Grátis,1664,Ignorado
+577,2024-11-14,SMS,Desconto,1194,Ignorado
+578,2023-11-29,Notificação App,Oferta Relâmpago,1034,Convertido
+579,2024-05-23,Email,Desconto,1303,Ignorado
+580,2024-02-21,Email,Frete Grátis,1937,Convertido
+581,2024-12-26,WhatsApp,Desconto,1898,Clicado
+582,2024-10-28,WhatsApp,Oferta Relâmpago,1390,Visualizado
+583,2023-07-29,Email,Desconto,1721,Convertido
+584,2023-07-01,WhatsApp,Desconto,1929,Visualizado
+585,2024-06-01,Notificação App,Cashback,1905,Ignorado
+586,2023-10-21,Email,Combo,1773,Visualizado
+587,2024-04-01,Email,Combo,1388,Clicado
+588,2025-03-16,Notificação App,Desconto,1168,Ignorado
+589,2024-12-08,Email,Cashback,1089,Ignorado
+590,2024-04-06,Email,Cashback,1926,Ignorado
+591,2024-01-15,SMS,Frete Grátis,1220,Clicado
+592,2025-05-21,SMS,Oferta Relâmpago,1284,Clicado
+593,2023-10-26,Notificação App,Desconto,1744,Visualizado
+594,2023-11-16,SMS,Combo,1448,Ignorado
+595,2024-04-12,SMS,Desconto,1020,Visualizado
+596,2024-06-08,Notificação App,Desconto,1173,Convertido
+597,2024-06-24,SMS,Cashback,1153,Ignorado
+598,2025-03-09,SMS,Cashback,1773,Clicado
+599,2025-03-06,SMS,Cashback,1225,Visualizado
+600,2023-05-24,Email,Frete Grátis,1322,Visualizado
+601,2024-01-13,Notificação App,Combo,1512,Visualizado
+602,2024-01-06,Email,Combo,1622,Clicado
+603,2025-02-02,WhatsApp,Cashback,1439,Clicado
+604,2025-03-24,Notificação App,Cashback,1193,Convertido
+605,2025-04-22,Email,Cashback,1204,Ignorado
+606,2023-09-24,SMS,Oferta Relâmpago,1635,Visualizado
+607,2024-04-05,Notificação App,Desconto,1614,Visualizado
+608,2023-11-06,Email,Oferta Relâmpago,1211,Convertido
+609,2024-08-27,Notificação App,Desconto,1132,Ignorado
+610,2023-09-16,SMS,Oferta Relâmpago,1362,Visualizado
+611,2023-11-09,Notificação App,Combo,1940,Clicado
+612,2023-12-02,WhatsApp,Cashback,1428,Convertido
+613,2024-06-19,SMS,Oferta Relâmpago,1075,Ignorado
+614,2023-07-13,SMS,Combo,1838,Clicado
+615,2024-08-01,Notificação App,Oferta Relâmpago,1319,Ignorado
+616,2023-12-17,SMS,Desconto,1608,Clicado
+617,2024-10-13,WhatsApp,Combo,1768,Convertido
+618,2024-04-27,Email,Cashback,1552,Convertido
+619,2024-06-02,Email,Desconto,1953,Convertido
+620,2025-05-18,WhatsApp,Cashback,1624,Ignorado
+621,2025-02-17,SMS,Cashback,1589,Ignorado
+622,2024-08-19,WhatsApp,Oferta Relâmpago,1570,Visualizado
+623,2024-01-29,Email,Desconto,1423,Convertido
+624,2023-11-17,Notificação App,Desconto,1889,Visualizado
+625,2023-11-14,SMS,Desconto,1814,Clicado
+626,2024-11-17,WhatsApp,Frete Grátis,1644,Visualizado
+627,2024-03-17,Notificação App,Cashback,1813,Clicado
+628,2024-10-26,Notificação App,Oferta Relâmpago,1709,Convertido
+629,2024-07-02,WhatsApp,Frete Grátis,1700,Clicado
+630,2024-12-21,Email,Desconto,1434,Ignorado
+631,2024-04-22,WhatsApp,Combo,1971,Visualizado
+632,2024-02-11,SMS,Frete Grátis,1743,Clicado
+633,2023-10-14,SMS,Cashback,1009,Ignorado
+634,2024-08-24,Email,Frete Grátis,1168,Clicado
+635,2024-11-12,SMS,Combo,1574,Clicado
+636,2023-09-21,Email,Desconto,1575,Ignorado
+637,2023-06-15,Notificação App,Oferta Relâmpago,1724,Visualizado
+638,2024-01-13,Email,Combo,1729,Clicado
+639,2024-02-28,WhatsApp,Oferta Relâmpago,1992,Convertido
+640,2023-07-16,Notificação App,Cashback,1600,Convertido
+641,2024-02-16,SMS,Cashback,1118,Convertido
+642,2023-12-11,WhatsApp,Cashback,1553,Convertido
+643,2023-06-13,SMS,Frete Grátis,1064,Convertido
+644,2023-06-18,WhatsApp,Cashback,1589,Clicado
+645,2023-11-06,Email,Combo,1078,Clicado
+646,2025-03-28,SMS,Oferta Relâmpago,1438,Convertido
+647,2025-05-09,Notificação App,Cashback,1000,Convertido
+648,2025-04-28,SMS,Frete Grátis,1357,Clicado
+649,2024-08-28,Email,Combo,1676,Ignorado
+650,2024-10-26,WhatsApp,Cashback,1596,Convertido
+651,2024-05-04,Email,Frete Grátis,1182,Ignorado
+652,2023-12-06,Email,Combo,1285,Convertido
+653,2025-03-22,Notificação App,Frete Grátis,1212,Convertido
+654,2023-11-24,SMS,Oferta Relâmpago,1690,Visualizado
+655,2024-07-24,WhatsApp,Cashback,1614,Clicado
+656,2025-01-14,Notificação App,Cashback,1725,Convertido
+657,2024-08-17,WhatsApp,Oferta Relâmpago,1434,Clicado
+658,2024-05-30,WhatsApp,Cashback,1122,Ignorado
+659,2025-01-09,Email,Cashback,1562,Visualizado
+660,2024-12-18,SMS,Oferta Relâmpago,1322,Ignorado
+661,2024-07-20,Notificação App,Oferta Relâmpago,1842,Visualizado
+662,2025-02-11,Email,Oferta Relâmpago,1546,Clicado
+663,2024-06-05,Email,Cashback,1602,Ignorado
+664,2023-11-20,Notificação App,Oferta Relâmpago,1468,Convertido
+665,2023-09-25,SMS,Desconto,1052,Visualizado
+666,2024-03-23,Email,Frete Grátis,1924,Ignorado
+667,2024-03-03,SMS,Cashback,1073,Clicado
+668,2023-07-16,Email,Desconto,1130,Ignorado
+669,2023-06-18,Notificação App,Cashback,1047,Clicado
+670,2023-05-26,Notificação App,Frete Grátis,1781,Ignorado
+671,2024-08-07,SMS,Frete Grátis,1747,Convertido
+672,2024-04-09,SMS,Combo,1439,Convertido
+673,2024-03-18,Email,Frete Grátis,1213,Clicado
+674,2024-08-25,Notificação App,Oferta Relâmpago,1364,Ignorado
+675,2024-03-19,SMS,Desconto,1425,Ignorado
+676,2023-07-21,WhatsApp,Combo,1821,Ignorado
+677,2024-05-20,Notificação App,Combo,1969,Convertido
+678,2025-05-21,Email,Cashback,1684,Clicado
+679,2024-07-15,Email,Cashback,1780,Clicado
+680,2025-03-29,SMS,Cashback,1621,Clicado
+681,2024-02-17,Notificação App,Frete Grátis,1180,Ignorado
+682,2024-06-20,WhatsApp,Combo,1873,Visualizado
+683,2024-01-27,SMS,Cashback,1416,Visualizado
+684,2024-12-06,Email,Combo,1524,Clicado
+685,2024-05-28,WhatsApp,Desconto,1127,Ignorado
+686,2024-05-28,SMS,Cashback,1318,Clicado
+687,2025-05-15,SMS,Frete Grátis,1245,Clicado
+688,2025-01-17,Notificação App,Oferta Relâmpago,1203,Clicado
+689,2023-06-19,Email,Cashback,1876,Ignorado
+690,2023-07-04,Email,Frete Grátis,1999,Visualizado
+691,2024-05-21,WhatsApp,Combo,1938,Clicado
+692,2023-09-29,WhatsApp,Desconto,1524,Clicado
+693,2023-08-21,Email,Combo,1708,Convertido
+694,2023-08-07,Email,Cashback,1398,Clicado
+695,2023-08-05,Email,Frete Grátis,1945,Convertido
+696,2025-02-27,Email,Combo,1817,Convertido
+697,2024-02-26,Notificação App,Frete Grátis,1142,Visualizado
+698,2025-01-09,Email,Combo,1562,Clicado
+699,2024-09-18,SMS,Combo,1705,Visualizado
+700,2023-05-28,SMS,Combo,1530,Visualizado
+701,2024-06-16,Email,Desconto,1410,Visualizado
+702,2024-10-07,Notificação App,Frete Grátis,1253,Clicado
+703,2023-11-12,Email,Frete Grátis,1885,Visualizado
+704,2023-06-23,Email,Desconto,1637,Ignorado
+705,2024-02-19,SMS,Combo,1056,Convertido
+706,2024-06-22,WhatsApp,Desconto,1838,Ignorado
+707,2025-05-05,SMS,Oferta Relâmpago,1797,Visualizado
+708,2024-09-27,WhatsApp,Combo,1508,Visualizado
+709,2024-12-17,Email,Desconto,1399,Ignorado
+710,2025-05-18,SMS,Desconto,1969,Clicado
+711,2024-09-29,Email,Combo,1981,Visualizado
+712,2024-08-13,Email,Combo,1850,Convertido
+713,2024-07-16,WhatsApp,Frete Grátis,1434,Ignorado
+714,2023-07-20,SMS,Desconto,1223,Clicado
+715,2023-07-30,WhatsApp,Frete Grátis,1299,Convertido
+716,2024-11-13,SMS,Combo,1021,Ignorado
+717,2023-09-26,WhatsApp,Combo,1908,Ignorado
+718,2024-02-22,SMS,Frete Grátis,1903,Visualizado
+719,2023-09-15,Email,Desconto,1205,Clicado
+720,2023-09-06,Email,Frete Grátis,1134,Clicado
+721,2024-08-05,WhatsApp,Desconto,1737,Clicado
+722,2024-01-13,WhatsApp,Frete Grátis,1215,Ignorado
+723,2025-05-05,SMS,Desconto,1923,Ignorado
+724,2024-04-29,Notificação App,Frete Grátis,1513,Ignorado
+725,2024-01-22,WhatsApp,Oferta Relâmpago,1266,Visualizado
+726,2024-03-12,SMS,Cashback,1993,Ignorado
+727,2024-12-19,Notificação App,Desconto,1082,Convertido
+728,2023-10-26,WhatsApp,Desconto,1564,Clicado
+729,2023-10-01,Notificação App,Combo,1677,Ignorado
+730,2024-02-12,Email,Oferta Relâmpago,1030,Clicado
+731,2025-02-13,WhatsApp,Frete Grátis,1954,Visualizado
+732,2023-08-26,Email,Cashback,1247,Convertido
+733,2023-09-19,Notificação App,Frete Grátis,1620,Visualizado
+734,2024-04-11,SMS,Oferta Relâmpago,1771,Visualizado
+735,2025-04-11,WhatsApp,Oferta Relâmpago,1696,Ignorado
+736,2024-03-06,SMS,Combo,1753,Ignorado
+737,2024-05-22,Notificação App,Frete Grátis,1285,Clicado
+738,2024-08-19,SMS,Oferta Relâmpago,1508,Convertido
+739,2024-09-27,Notificação App,Cashback,1078,Clicado
+740,2023-09-30,WhatsApp,Frete Grátis,1817,Visualizado
+741,2023-08-16,Email,Cashback,1138,Visualizado
+742,2025-02-21,Notificação App,Combo,1921,Convertido
+743,2023-10-01,Email,Frete Grátis,1939,Convertido
+744,2024-02-19,WhatsApp,Cashback,1952,Convertido
+745,2024-12-14,Email,Desconto,1341,Clicado
+746,2025-01-23,Notificação App,Desconto,1191,Convertido
+747,2024-10-22,SMS,Combo,1310,Visualizado
+748,2025-01-04,Notificação App,Desconto,1153,Convertido
+749,2023-10-13,Notificação App,Oferta Relâmpago,1204,Ignorado
+750,2023-12-26,SMS,Desconto,1802,Ignorado
+751,2023-05-26,SMS,Combo,1925,Clicado
+752,2024-05-12,Notificação App,Oferta Relâmpago,1645,Ignorado
+753,2023-09-09,SMS,Cashback,1861,Ignorado
+754,2023-10-30,SMS,Cashback,1344,Clicado
+755,2023-06-03,Notificação App,Frete Grátis,1548,Clicado
+756,2024-03-11,WhatsApp,Frete Grátis,1445,Visualizado
+757,2024-04-28,WhatsApp,Oferta Relâmpago,1043,Convertido
+758,2024-02-12,Notificação App,Cashback,1351,Ignorado
+759,2023-07-02,Notificação App,Desconto,1688,Visualizado
+760,2024-12-07,Notificação App,Frete Grátis,1861,Visualizado
+761,2024-01-13,SMS,Combo,1394,Clicado
+762,2023-07-08,WhatsApp,Combo,1300,Clicado
+763,2024-06-01,WhatsApp,Combo,1354,Ignorado
+764,2024-05-14,Notificação App,Cashback,1892,Ignorado
+765,2024-09-23,Email,Cashback,1033,Clicado
+766,2024-04-06,Notificação App,Cashback,1897,Visualizado
+767,2024-07-07,Notificação App,Combo,1272,Clicado
+768,2024-05-29,SMS,Cashback,1555,Convertido
+769,2024-07-25,Notificação App,Cashback,1277,Clicado
+770,2024-11-08,Notificação App,Frete Grátis,1932,Ignorado
+771,2024-11-05,Notificação App,Oferta Relâmpago,1244,Clicado
+772,2025-02-08,Notificação App,Combo,1436,Clicado
+773,2023-10-07,Email,Desconto,1802,Visualizado
+774,2024-11-26,Email,Desconto,1200,Convertido
+775,2025-01-13,Email,Frete Grátis,1762,Ignorado
+776,2025-03-08,WhatsApp,Combo,1382,Ignorado
+777,2025-02-18,WhatsApp,Cashback,1076,Ignorado
+778,2023-12-07,SMS,Combo,1189,Ignorado
+779,2024-08-09,Notificação App,Oferta Relâmpago,1278,Visualizado
+780,2023-09-05,SMS,Combo,1914,Visualizado
+781,2025-02-20,SMS,Oferta Relâmpago,1360,Clicado
+782,2024-01-31,SMS,Oferta Relâmpago,1530,Convertido
+783,2025-05-08,Email,Combo,1662,Convertido
+784,2024-06-05,WhatsApp,Oferta Relâmpago,1290,Clicado
+785,2023-10-24,SMS,Desconto,1178,Convertido
+786,2023-07-26,Email,Combo,1562,Convertido
+787,2024-01-01,Email,Cashback,1960,Ignorado
+788,2024-08-08,Notificação App,Oferta Relâmpago,1366,Visualizado
+789,2023-11-30,Notificação App,Frete Grátis,1243,Clicado
+790,2024-07-12,Email,Combo,1636,Convertido
+791,2024-11-27,WhatsApp,Oferta Relâmpago,1593,Ignorado
+792,2025-03-18,SMS,Frete Grátis,1731,Ignorado
+793,2024-01-12,Email,Combo,1911,Clicado
+794,2024-03-16,Email,Oferta Relâmpago,1993,Ignorado
+795,2023-11-06,Notificação App,Cashback,1745,Ignorado
+796,2025-05-20,WhatsApp,Oferta Relâmpago,1219,Clicado
+797,2024-08-15,Notificação App,Oferta Relâmpago,1103,Visualizado
+798,2023-09-30,Email,Oferta Relâmpago,1902,Convertido
+799,2024-01-16,SMS,Cashback,1881,Ignorado
+800,2024-06-24,Notificação App,Cashback,1089,Visualizado
+801,2023-12-02,SMS,Desconto,1631,Convertido
+802,2025-05-14,SMS,Desconto,1720,Clicado
+803,2023-06-29,Notificação App,Cashback,1358,Convertido
+804,2025-04-12,Email,Frete Grátis,1565,Ignorado
+805,2023-06-12,WhatsApp,Oferta Relâmpago,1823,Clicado
+806,2024-02-14,SMS,Cashback,1664,Ignorado
+807,2024-08-13,SMS,Cashback,1991,Visualizado
+808,2023-11-07,WhatsApp,Frete Grátis,1433,Clicado
+809,2025-05-22,Email,Oferta Relâmpago,1966,Visualizado
+810,2024-08-17,Notificação App,Combo,1827,Clicado
+811,2024-04-10,SMS,Combo,1626,Convertido
+812,2025-02-28,Email,Cashback,1424,Visualizado
+813,2023-10-19,Notificação App,Frete Grátis,1047,Visualizado
+814,2024-12-11,Email,Frete Grátis,1665,Clicado
+815,2023-06-09,Notificação App,Combo,1502,Convertido
+816,2024-11-09,Notificação App,Frete Grátis,1509,Visualizado
+817,2023-11-03,Email,Cashback,1401,Visualizado
+818,2023-10-17,WhatsApp,Desconto,1317,Visualizado
+819,2023-07-28,Email,Cashback,1543,Ignorado
+820,2025-02-03,Notificação App,Oferta Relâmpago,1986,Ignorado
+821,2024-02-07,Notificação App,Cashback,1822,Clicado
+822,2024-12-08,WhatsApp,Combo,1029,Ignorado
+823,2025-03-12,Notificação App,Desconto,1451,Visualizado
+824,2024-10-14,Notificação App,Combo,1289,Clicado
+825,2024-03-05,SMS,Frete Grátis,1645,Visualizado
+826,2024-06-16,SMS,Cashback,1579,Visualizado
+827,2025-05-06,SMS,Combo,1449,Convertido
+828,2023-10-30,WhatsApp,Oferta Relâmpago,1542,Ignorado
+829,2025-04-05,WhatsApp,Oferta Relâmpago,1937,Convertido
+830,2025-03-15,WhatsApp,Cashback,1839,Clicado
+831,2023-12-18,Email,Combo,1988,Clicado
+832,2023-10-21,WhatsApp,Frete Grátis,1925,Clicado
+833,2024-09-17,Notificação App,Desconto,1100,Convertido
+834,2025-01-06,Notificação App,Oferta Relâmpago,1226,Visualizado
+835,2023-07-01,WhatsApp,Oferta Relâmpago,1137,Convertido
+836,2024-08-31,WhatsApp,Combo,1084,Ignorado
+837,2024-05-02,WhatsApp,Frete Grátis,1516,Visualizado
+838,2024-12-09,Email,Desconto,1809,Convertido
+839,2025-01-12,WhatsApp,Oferta Relâmpago,1097,Visualizado
+840,2024-05-24,SMS,Combo,1490,Visualizado
+841,2024-03-15,Email,Desconto,1781,Convertido
+842,2023-11-28,Email,Oferta Relâmpago,1214,Clicado
+843,2024-02-23,SMS,Cashback,1408,Clicado
+844,2025-01-10,Email,Combo,1388,Convertido
+845,2025-01-24,SMS,Desconto,1067,Ignorado
+846,2024-12-29,SMS,Oferta Relâmpago,1639,Ignorado
+847,2024-04-05,Notificação App,Frete Grátis,1480,Clicado
+848,2024-04-03,Notificação App,Frete Grátis,1655,Clicado
+849,2025-03-22,Email,Desconto,1173,Ignorado
+850,2023-12-12,WhatsApp,Cashback,1762,Visualizado
+851,2024-03-06,WhatsApp,Oferta Relâmpago,1029,Visualizado
+852,2023-05-26,Notificação App,Frete Grátis,1491,Clicado
+853,2023-12-03,Notificação App,Oferta Relâmpago,1142,Clicado
+854,2025-01-29,Email,Frete Grátis,1900,Convertido
+855,2025-04-11,Email,Frete Grátis,1710,Clicado
+856,2024-11-22,Notificação App,Frete Grátis,1010,Convertido
+857,2024-03-28,Email,Desconto,1255,Visualizado
+858,2024-05-10,SMS,Cashback,1746,Clicado
+859,2023-06-15,WhatsApp,Oferta Relâmpago,1675,Clicado
+860,2025-04-12,Notificação App,Combo,1676,Clicado
+861,2024-08-08,Notificação App,Cashback,1080,Visualizado
+862,2024-12-18,Email,Frete Grátis,1657,Convertido
+863,2024-09-07,Email,Oferta Relâmpago,1205,Clicado
+864,2024-06-28,SMS,Frete Grátis,1085,Ignorado
+865,2023-10-23,Email,Oferta Relâmpago,1814,Convertido
+866,2023-08-09,WhatsApp,Combo,1031,Visualizado
+867,2023-11-22,SMS,Oferta Relâmpago,1453,Convertido
+868,2023-08-10,WhatsApp,Frete Grátis,1758,Convertido
+869,2024-04-20,Email,Cashback,1573,Convertido
+870,2023-11-18,WhatsApp,Cashback,1220,Ignorado
+871,2024-05-01,Notificação App,Cashback,1520,Convertido
+872,2025-04-12,Notificação App,Oferta Relâmpago,1407,Visualizado
+873,2023-05-24,Notificação App,Frete Grátis,1850,Ignorado
+874,2023-11-17,WhatsApp,Cashback,1221,Clicado
+875,2023-07-29,Email,Desconto,1766,Ignorado
+876,2025-04-24,Notificação App,Desconto,1579,Visualizado
+877,2024-05-21,Notificação App,Combo,1310,Clicado
+878,2023-11-04,WhatsApp,Cashback,1820,Clicado
+879,2024-03-28,Email,Desconto,1394,Visualizado
+880,2024-04-29,WhatsApp,Frete Grátis,1280,Ignorado
+881,2024-10-29,WhatsApp,Desconto,1541,Ignorado
+882,2024-03-24,Notificação App,Combo,1188,Clicado
+883,2025-04-20,SMS,Cashback,1609,Clicado
+884,2024-05-01,SMS,Combo,1243,Clicado
+885,2025-03-13,WhatsApp,Cashback,1823,Ignorado
+886,2023-08-21,SMS,Frete Grátis,1066,Visualizado
+887,2024-01-08,WhatsApp,Desconto,1546,Visualizado
+888,2023-06-17,Notificação App,Desconto,1556,Ignorado
+889,2023-11-08,WhatsApp,Frete Grátis,1994,Convertido
+890,2024-01-08,Notificação App,Frete Grátis,1495,Ignorado
+891,2024-07-07,SMS,Oferta Relâmpago,1558,Visualizado
+892,2023-07-30,Email,Cashback,1514,Visualizado
+893,2025-05-02,SMS,Combo,1065,Convertido
+894,2023-07-19,SMS,Desconto,1668,Clicado
+895,2024-10-07,Email,Oferta Relâmpago,1806,Visualizado
+896,2025-05-21,WhatsApp,Frete Grátis,1485,Visualizado
+897,2025-02-12,SMS,Frete Grátis,1298,Ignorado
+898,2023-12-11,Notificação App,Combo,1441,Clicado
+899,2024-03-02,SMS,Desconto,1698,Clicado
+900,2025-04-27,Email,Frete Grátis,1950,Ignorado
+901,2024-03-29,Email,Desconto,1819,Clicado
+902,2024-01-04,WhatsApp,Desconto,1406,Ignorado
+903,2024-07-04,Notificação App,Frete Grátis,1680,Ignorado
+904,2024-01-27,SMS,Oferta Relâmpago,1642,Visualizado
+905,2025-05-07,WhatsApp,Oferta Relâmpago,1870,Convertido
+906,2023-06-14,SMS,Oferta Relâmpago,1854,Visualizado
+907,2025-01-01,Email,Frete Grátis,1383,Convertido
+908,2024-04-29,WhatsApp,Frete Grátis,1000,Clicado
+909,2023-12-08,SMS,Cashback,1042,Convertido
+910,2024-08-31,Email,Cashback,1783,Visualizado
+911,2025-01-22,WhatsApp,Combo,1215,Visualizado
+912,2023-12-23,Notificação App,Desconto,1332,Ignorado
+913,2024-10-19,SMS,Combo,1623,Convertido
+914,2025-03-06,SMS,Cashback,1036,Ignorado
+915,2023-07-13,Email,Cashback,1435,Convertido
+916,2024-05-28,Email,Frete Grátis,1807,Visualizado
+917,2024-09-21,WhatsApp,Oferta Relâmpago,1166,Ignorado
+918,2025-01-18,SMS,Desconto,1205,Ignorado
+919,2025-03-03,Notificação App,Desconto,1406,Visualizado
+920,2023-06-22,SMS,Combo,1215,Clicado
+921,2024-01-09,WhatsApp,Oferta Relâmpago,1510,Ignorado
+922,2023-06-16,WhatsApp,Cashback,1007,Visualizado
+923,2024-05-24,Notificação App,Cashback,1181,Clicado
+924,2024-10-26,Email,Desconto,1715,Ignorado
+925,2023-07-07,Notificação App,Combo,1615,Convertido
+926,2023-06-13,WhatsApp,Desconto,1456,Visualizado
+927,2024-04-16,Notificação App,Frete Grátis,1823,Ignorado
+928,2024-11-12,SMS,Oferta Relâmpago,1356,Convertido
+929,2023-10-21,Email,Desconto,1107,Clicado
+930,2023-12-07,WhatsApp,Combo,1339,Convertido
+931,2024-07-31,SMS,Desconto,1875,Ignorado
+932,2023-08-25,Email,Oferta Relâmpago,1372,Visualizado
+933,2025-02-14,Notificação App,Frete Grátis,1582,Ignorado
+934,2024-02-05,Email,Cashback,1159,Clicado
+935,2023-09-14,Email,Combo,1022,Ignorado
+936,2025-04-19,WhatsApp,Combo,1841,Convertido
+937,2023-06-07,WhatsApp,Frete Grátis,1202,Clicado
+938,2023-07-01,Notificação App,Cashback,1569,Visualizado
+939,2024-02-24,SMS,Desconto,1661,Visualizado
+940,2024-04-28,SMS,Frete Grátis,1126,Convertido
+941,2025-02-06,Email,Frete Grátis,1300,Convertido
+942,2024-08-27,Email,Combo,1417,Convertido
+943,2025-04-16,Notificação App,Desconto,1095,Convertido
+944,2025-05-03,SMS,Oferta Relâmpago,1238,Visualizado
+945,2025-02-08,SMS,Desconto,1284,Visualizado
+946,2024-02-01,WhatsApp,Cashback,1684,Visualizado
+947,2023-11-18,SMS,Oferta Relâmpago,1796,Clicado
+948,2024-11-01,Email,Frete Grátis,1200,Ignorado
+949,2024-09-19,SMS,Frete Grátis,1810,Clicado
+950,2023-09-06,WhatsApp,Combo,1856,Visualizado
+951,2024-10-18,WhatsApp,Frete Grátis,1702,Convertido
+952,2023-09-27,Email,Oferta Relâmpago,1874,Visualizado
+953,2024-04-22,Email,Combo,1582,Clicado
+954,2024-06-01,Email,Oferta Relâmpago,1814,Convertido
+955,2024-10-30,WhatsApp,Combo,1135,Convertido
+956,2024-04-30,Notificação App,Frete Grátis,1034,Ignorado
+957,2023-12-03,Email,Frete Grátis,1101,Clicado
+958,2025-04-17,Notificação App,Oferta Relâmpago,1315,Convertido
+959,2025-02-10,Email,Oferta Relâmpago,1639,Convertido
+960,2025-04-20,Notificação App,Oferta Relâmpago,1078,Clicado
+961,2023-09-24,WhatsApp,Combo,1730,Clicado
+962,2023-08-03,WhatsApp,Cashback,1115,Ignorado
+963,2024-12-28,Notificação App,Oferta Relâmpago,1444,Visualizado
+964,2024-08-30,Notificação App,Combo,1752,Visualizado
+965,2024-08-10,SMS,Combo,1113,Convertido
+966,2024-11-28,Email,Desconto,1777,Visualizado
+967,2023-07-14,WhatsApp,Combo,1539,Visualizado
+968,2024-03-08,SMS,Cashback,1451,Visualizado
+969,2023-07-12,Notificação App,Oferta Relâmpago,1672,Convertido
+970,2025-02-15,Notificação App,Desconto,1719,Clicado
+971,2025-04-12,Notificação App,Frete Grátis,1586,Ignorado
+972,2025-02-10,SMS,Combo,1073,Ignorado
+973,2024-09-02,Email,Combo,1359,Visualizado
+974,2024-01-14,Notificação App,Cashback,1630,Ignorado
+975,2023-11-02,Email,Combo,1170,Visualizado
+976,2024-12-28,SMS,Desconto,1120,Visualizado
+977,2024-05-05,Email,Oferta Relâmpago,1281,Ignorado
+978,2025-05-21,Notificação App,Combo,1590,Visualizado
+979,2024-10-03,Notificação App,Combo,1439,Visualizado
+980,2023-11-24,SMS,Frete Grátis,1815,Ignorado
+981,2024-03-23,Email,Combo,1399,Ignorado
+982,2024-10-18,Email,Combo,1538,Convertido
+983,2024-07-07,Email,Oferta Relâmpago,1519,Clicado
+984,2023-10-29,Notificação App,Oferta Relâmpago,1887,Ignorado
+985,2024-01-09,Email,Oferta Relâmpago,1162,Convertido
+986,2024-12-21,Email,Desconto,1362,Clicado
+987,2023-09-24,WhatsApp,Combo,1002,Ignorado
+988,2024-08-28,WhatsApp,Desconto,1817,Clicado
+989,2024-06-22,Notificação App,Desconto,1468,Convertido
+990,2023-10-30,WhatsApp,Combo,1921,Visualizado
+991,2024-12-16,WhatsApp,Cashback,1201,Convertido
+992,2024-03-08,Email,Oferta Relâmpago,1215,Convertido
+993,2023-06-30,WhatsApp,Oferta Relâmpago,1913,Convertido
+994,2024-05-21,Email,Frete Grátis,1621,Convertido
+995,2023-08-18,Email,Desconto,1176,Convertido
+996,2025-02-20,WhatsApp,Oferta Relâmpago,1131,Convertido
+997,2025-03-26,SMS,Desconto,1107,Clicado
+998,2023-08-04,Notificação App,Combo,1251,Convertido
+999,2023-08-03,Email,Desconto,1439,Ignorado
+1000,2023-06-12,Email,Oferta Relâmpago,1277,Clicado
